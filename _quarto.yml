@@ -1,0 +1,73 @@
+project:
+  type: website
+
+website:
+  sidebar:
+    style: "floating"
+    search: false
+    pinned: false
+    contents:
+      - section: "Walk through the websites"
+        contents:
+          - text: "🏠 Home"
+            href: index.qmd
+          - text: "iCMS 2021"
+            href: https://uitmicms.wixsite.com/icms2021
+            target: _blank
+          - text: "iCMS 2019"
+            href: https://uitmicms.wixsite.com/icms2019
+            target: _blank
+          # - text: "Call for Papers"
+          #   href: callforpapers.qmd
+          # - text: "🔵 See the code in R"
+          #   href: r.qmd
+          # - icon: github
+          #   text: "See the code on GitHub"
+          #   href: https://github.com/posit-marketing/taylor-swift-tour
+          #   target: _blank
+          # - text: "☁️ Open the project in Posit Cloud"
+          #   href: https://posit.cloud/content/7059961
+          #   target: _blank
+    footer: icms2021_playlist.html
+  page-footer:
+    center: |
+       <a href="https://posit.co"><img src="images/posit-logo.png" alt="Posit logo" style="width:60px;"></a> 
+    # left:
+    #   - href: references.qmd
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/company/posit-software/
+        aria-label: Posit LinkedIn
+      - icon: mastodon
+        href: https://fosstodon.org/@Posit
+        aria-label: Posit Mastodon
+      - icon: tiktok
+        href: https://www.tiktok.com/@posit_pbc
+        aria-label: Posit TikTok
+      - icon: instagram
+        href: https://www.instagram.com/posit.pbc/
+        aria-label: Posit Instagram
+        
+execute:
+  freeze: true
+
+format:
+  html:
+    theme: cosmo
+    mainfont: Lato
+    css: style.css
+    execute:
+      echo: true
+      eval: false
+      fig-align: center
+      message: false
+      warning: false
+    grid:
+      sidebar-width: 300px
+    include-in-header: 
+      - progress-bar.html
+    lightbox: auto
+    page-layout: article
+    toc: true
+    toc-location: left
+    toc-title: "Table of Contents"

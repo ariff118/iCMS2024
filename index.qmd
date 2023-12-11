@@ -1,0 +1,519 @@
+---
+title: "iCMS 2024"
+title-block-banner: "images/sp.jpg"
+# title-block-banner: "images/hero.jpg"
+# title-block-banner-alt: "Taylor Swift on stage with a microphone in hand, likely during a concert. The individual is facing towards the right, with their head turned to look at the camera, giving a confident smile. They are wearing a glittering bodysuit adorned with sequins in shades of gold and blue, paired with fishnet stockings and sparkling knee-high boots. At the top of the image, in large white text against a black background, reads TAYLOR'S TOWERING YEAR. Below the main image, a bar of smaller images or possibly a visual data representation features the text ERAS TOUR TOLD BY DATA with some letters clear and others obscured by heart symbols replacing the Os."
+filters:
+   - lightbox
+execute:
+  echo: false
+  eval: true
+format: html
+---
+
+## ABOUT
+
+<!-- The International Conference on Computing, Statistics and Mathematics (iCMS) is a biennial conference commencing since 2013. The conference is hosted by the Faculty of Computer and Mathematical Sciences, Universiti Teknologi MARA (UiTM) Kedah, Malaysia. The focus of iCMS is on computing, mathematics and statistics discipline and the application centering on these fields of study. -->
+
+<!-- Over the years, iCMS international conference has attracted many high quality papers from local as well as global contributors in various subjects pertaining to the three areas. Not to mention, our biggest success in terms of publication where all papers in iCMS2017 are published in indexed journals and proceeding. In the previous conference iCMS2019, more than 100 papers have been accepted. To date, nearly half of the papers presented at the conference have been published in selected Scopus indexed journals while the remaining papers are in final steps to be published in other various suitable indexed journals. -->
+
+<!-- The organising committee had also successfully hosted pre-conference workshop namely, “Visualization of Tidy Data” that was conducted by international reputable expert, Dr. Matthias Templ from Statistics Austria and Vienna University of technology and received positive feedback from the participants. -->
+
+<!-- iCMS2021 will be our fifth international conference. The theme of this coming conference is “Driving Research Toward Excellence”. Given the rapidity with which computing, mathematics, and statistics are advancing in all areas of life, we strongly believed that this upcoming conference is the best platform available for researchers to come together presenting their practical solutions for a better tomorrow as well as become a catalyst for stimulating ideas to further enhance future research and innovations.\ -->
+
+The International Conference on Computing, Statistics, and Mathematics (iCMS) has been a biennial gathering since its inception in 2013, and we are thrilled to announce the upcoming iCMS 2024, marking our fifth conference after the successful iCMS 2021. Organized by the Faculty of Computer and Mathematical Sciences at Universiti Teknologi MARA (UiTM) Kedah, Malaysia, iCMS continues to be a key forum focusing on the disciplines of computing, mathematics, and statistics, exploring their applications and advancements.\
+
+Throughout the years, iCMS has consistently attracted high-quality papers from both local and global contributors, covering a diverse range of subjects within these three domains. Notably, iCMS 2017 achieved significant success with all presented papers published in indexed journals and proceedings. In the subsequent iCMS 2019, over 100 papers were accepted, with a substantial portion published in Scopus indexed journals, and the rest in various other suitable indexed journals.\
+
+The organizing committee has also successfully hosted pre-conference workshops, such as the "Visualization of Tidy Data," conducted by the internationally renowned expert, Dr. Matthias Templ from Statistics Austria and Vienna University of Technology, garnering positive feedback from participants.\
+
+In our previous conference, iCMS 2021, we celebrated a significant milestone and expanded our offerings with the successful inclusion of two pre-conference workshops. Pre-Conference Workshop 1, titled "Predictive Analytics using IBM SPSS Modeller 18" was conducted by Prof. Dr. Yap Bee Wah from the Institute for Big Data Analytics and Artificial Intelligence at Universiti Teknologi MARA (UiTM) Shah Alam. Prof. Dr. Yap shared valuable insights into predictive analytics, leveraging the capabilities of IBM SPSS Modeler 18.\
+
+Additionally, Pre-Conference Workshop 2, titled "R Markdown in Academic Writing" was led by Mr. Kamarul Ariffin Mansor from Universiti Teknologi MARA (UiTM) Kedah. Mr. Kamarul Ariffin Mansor guided participants through the effective use of R Markdown in academic writing, offering practical tips for enhancing the presentation and communication of research findings.\
+
+As we gear up for iCMS 2024, our fifth international conference, we are excited to reveal the theme for this edition, "Accelerating Innovation: Navigating the Road to Research Excellence". Building on the momentum of the previous conference's theme, "Driving Research Toward Excellence," we aim to further explore the rapid advancements in computing, mathematics, and statistics across various facets of life. We firmly believe that iCMS 2024 will provide an unparalleled platform for researchers to showcase their practical solutions, fostering collaboration, and acting as a catalyst for stimulating innovative ideas that will shape the future of research and advancements. Join us in this journey towards excellence at iCMS 2024!\
+
+<center>
+::: {.columns}
+
+::: {.column width="45%"}
+**Organized by:**\
+![](images/uitm.png){width=150px}
+:::
+
+::: {.column width="10%"}
+
+:::
+
+::: {.column width="45%"}
+**Supporting partners:**\
+
+::: {.columns}
+::: {.column width="45%"}
+![](images/eub.png){width=75px}
+:::
+
+::: {.column width="45%"}
+![](images/Rlogo.png){width=75px}
+:::
+:::
+
+:::
+
+:::
+
+</center>
+---
+
+## CALL FOR PAPERS\
+
+The Faculty of Computer and Mathematical Sciences of Universiti Teknologi MARA (UiTM) Kedah is hosting The 5    International Conference on Computing, Mathematics and Statistics 2021 (iCMS2021). The organizing committee invites academicians, researchers, PhD candidates and practitioners worldwide to submit full papers to the conference. \
+
+**Important dates**
+
+Abstract Submission Deadline: 1 July 2024\
+Notification of Abstract Acceptance: Rolling\
+Full Paper Submission Deadline: 15 July 2024\
+Camera Ready Paper Deadline: 31 July 2024\
+Online Registration Deadline: Rolling\
+
+Early bird Payments: 30 April 2024\
+Full Payment Deadline: 15 July 2024\
+
+Pre-Conference Workshop Date: 2 September 2024\
+
+Conference Date: 2 - 4 September 2024\
+
+---
+
+## TRACKS\
+
+::: {.columns}
+
+::: {.column width="45%"}
+
+<center>
+**Mathematics**\
+
+Actuarial Science\
+Applied Mathematics\
+Biomathematics\
+Financial Engineering / Financial Mathematics / Quantitative Finance\
+Formalization of Mathematics\
+Foundation of Mathematics\
+Mathematics\
+Mathematical Software Design and Implementation\
+Mathematical Modelling\
+Mathematical Physics\
+Pure Mathematics\
+System Dynamics\
+</center>
+
+:::
+
+::: {.column width="10%"}
+
+:::
+
+::: {.column width="45%"}
+
+<center>
+**Statistics**\
+
+Applied Statistics\
+Biostatistics/ Epidemiology\
+Bioinformatics\
+Business Statistics\
+Computational Statistics\
+Data Mining\
+Economerics\
+Environmental Statistics\
+Industrial Statistics\
+Industrial Quality Control\
+Modelling and Simulation\
+Operations Research\
+Probability\
+Quantitative Methods\
+System Dynamics\
+</center>
+
+:::
+
+:::
+\
+\
+
+::: {.columns}
+
+::: {.column width="32%"}
+
+<center>
+**R and its Users**\
+
+R & Other Languages/ Systems\
+R Community\
+R for Statistical Computing\
+R in Economics, Business and Industry\
+R in Ecology and Environment\
+R in Education\
+R in Official Statistic\
+R in Medical Research\
+Reproducible Research\
+Visualization & Graphics\
+</center>
+
+:::
+
+::: {.column width="2%"}
+
+:::
+
+::: {.column width="32%"}
+
+<center>
+**Computer Science/ Mathematics/ Statistics Education (CMS)**\
+
+Innovative Teaching and Learning in CMS\
+Evaluation and Assessment in CMS Education\
+Using Technology in CMS Education\
+Visualization in the Teaching and Learning of CMS\
+Mathematics Education at Preschool Level\
+Problem Solving in Mathematics Education\
+Activities and Programs for Students with Special Needs\
+</center>
+
+:::
+
+::: {.column width="2%"}
+
+:::
+
+::: {.column width="32%"}
+
+<center>
+**Computer Science & Information Technology**\
+
+Algorithms and theory\
+Software engineering\
+Concurrent, distributed and parallel computing\
+Computer architecture\
+Computer Networking and Networked Systems\
+Security and privacy\
+Information Science\
+Artificial intelligence\
+Computer graphics and Visualization\
+Computational Science\
+</center>
+
+:::
+
+:::
+
+---
+
+## PUBLICATION\
+
+We are committed to include camera-ready paper submitted to iCMS2021 in our e-Proceeding book to ensure all authors can benefit from them. Attached is the iCMS 2021 e-Proceedings.\
+
+Title       : e-Proceedings of the 5th International Conference on Computing, Mathematics and Statistics (iCMS 2021)\
+Publisher   : Universiti Teknologi MARA Kedah Branch\
+e-ISBN      : 978-967-2948-12-4\
+
+Selected papers will be considered for publication in the selected journals as listed below.\
+
+**Publication Opportunities:**\
+
+1. Voice of Academia (VoA)\
+2. Austrian Journal of Statistics \
+3. Romanian Statistical Review\
+4. Journal of Applied Mathematics and Computational Intelligence (AMCI)\
+5. Journal of Creative Practices in Language Learning and Teaching (CPLT)\
+6. Malaysian Journal of Fundamental and Applied Sciences (MJFAS)\
+7. Journal of Information and Communication Technology (JICT)\
+
+Selected authors will be invited to prepare an extended version of their paper (more than 30% changes), which will be published after editorial board & evaluators approval and additional cost may apply.\
+
+Author will need to follow the template provided by the selected journal.\
+
+---
+
+## REGISTRATION & SUBMISSION\
+
+Authors are required to submit abstracts, full papers, and camera-ready papers separately using the confBay conference management system. Kindly click on the confBay icon below to go to the submission page. You have to create a confBay account first before you are allowed to log in to the submission page.\
+
+To register for conference, please click the icon below:\
+
+[![Conference Bay](images/iconfbay.png)](https://submit.confbay.com/)
+
+---
+
+## WORKSHOPS\
+
+### Pre-Conference Workshop 1\
+
+**PREDICTIVE ANALYTICS USING IBM SPSS MODELER 18**
+
+Prof. Dr. Yap Bee Wah\
+Institute for Big Data Analytics and Artificial Intelligence\
+Universiti Teknologi MARA (UiTM) Shah Alam\
+
+### Pre-Conference Workshop 2\
+
+**R MARKDOWN IN ACADEMIC WRITING**
+
+Mr. Kamarul Ariffin Mansor\
+Universiti Teknologi MARA (UiTM) Kedah\
+
+Mr. Kamarul Ariffin Mansor, is a senior lecturer at the Faculty of Computer Science and Mathematics, Universiti Teknologi MARA (UiTM), Kedah Branch Campus, Malaysia. His research interest includes the application of structural equation modeling and statistical applications in other fields of studies, data analytics and visualization using Excel, R, Tableau, etc.\
+
+PRE-CONFERENCE WORKSHOP REGISTRATION FORM\
+
+PAYMENT DUE : 31st May 2021\
+
+Please upload your proof of payment here:\
+PROOF OF PAYMENT\
+
+---
+
+## FEES & PAYMENT\
+
+<center>
+### [**Conference Fee**]{style="color:green;"}
++:----------------------------------------:+:-----------------------:+
+| Early Bird                               | RM350/USD90             |
+|                                          |                         |
+| Normal                                   | RM450/USD115            |
+|                                          |                         |
+| Student/UiTM Staff                       | RM350/USD90             |
+|                                          |                         |
+| Group of 3                               | RM330(each)/USD85(each) |
++------------------------------------------+-------------------------+
+
+### [**Workshop Fee**]{style="color:green;"}\
+RM100/USD30\
+\
+\
+
+### [**Mode of Payments**]{style="color:green;"}\
+
+#### For Local Participants/Presenters\
+
+[Academic Institutional cheques/ Banker’s cheques/Inter Bank Giro (IBG)/Bank Transfer/Government Local Order (LO) (Personal cheques are not accepted).]{style="color:purple;"}\
+
+[All cheques must be made payable to “Bendahari UiTM Kedah”.]{style="color:purple;"}\
+
+#### For International Participants/Presenters\
+
+[Telegraphic Transfers/Electronic Transfers ONLY (including bank charges).]{style="color:purple;"}\
+
+#### For International Participants/Presenters\
+
++--------------------------------------------:+------------------------------------------------+
+| **Bank Name:**                              | Bank Islam Malaysia Bhd (Sungai Petani Branch) |
++---------------------------------------------+------------------------------------------------+
+| **Bank Address:**                           | No.71&72 Lorong Lagenda 1                      |
+|                                             |                                                |
+|                                             | Lagenda Heights                                |
+|                                             |                                                |
+|                                             | 08000 Sungai Petani, Kedah, MALAYSIA           |
++---------------------------------------------+------------------------------------------------+
+| **Bank Account Number:**                    | 02020010080212                                 |
++---------------------------------------------+------------------------------------------------+
+| **Bank Account Name :**                     | Tetuan UiTM Cawangan Kedah                     |
++---------------------------------------------+------------------------------------------------+
+| **Pay to:**                                 | Bendahari UiTM Kedah                           |
++---------------------------------------------+------------------------------------------------+
+| **Swift Code:**                             | BIMBMYKL                                       |
++---------------------------------------------+------------------------------------------------+
+| **GST Registration Number for UiTM Kedah:** | 001418756096                                   |
++---------------------------------------------+------------------------------------------------+
+
+Please send the bank transaction slip or receipt as proof of payment by uploading to\
+
+![](images/iconfbay.png){width=150px}
+*All monies paid are non-refunable
+</center>
+
+---
+
+## DOWNLOAD\
+
+### Abstract\
+
+### Full paper\
+
+### Camera  Ready\
+
+### Brochure\
+
+### Presentation\
+
+---
+
+## PROGRAMME SCHEDULE\
+
+For more information about programme schedule please click the button below.\
+
+Button\
+
+Please note, this programme schedule is subject to change at any time. If you have any queries about the schedule, please feel free to contact us by email at [icms2021@uitm.edu.my](icms2021@uitm.edu.my)\
+
+---
+
+## COMMITTEE\
+
+<center>
+
+::: {.columns}
+
+::: {.column width="48%"}
+**ORGANIZING COMMITTEE\
+(Universiti Teknologi MARA Kedah Branch)**\
+
+Afida Ahmad\
+Amirah Hazwani Abdul Rahim\
+Anis Mardiana Ahmad\
+Asmahani Nayan\
+Fazillah Bosli\
+Ida Normaya Mohd Nasir\
+Juaini Jamaludin\
+Kamarul Ariffin Mansor\
+Kartini Kasim\
+Liana Najib\
+Mazura Mat Din\
+Nora Baizura\
+Norashikin Nasaruddin\
+Norin Rahayu\
+Noor Hafizah Zainal Aznam\
+Nor Athirah Mohd Zin\
+Nurazlina Abdul Rashid\
+Rosidah Ahmad\
+Shahida Farhan Zakaria\
+Siti Fairus Mokhtar\
+Siti Nur Alwani Salleh\
+Syafiza Saila Samsudin\
+:::
+
+::: {.column width="4%"}
+
+:::
+
+::: {.column width="48%"}
+**SCIENTIFIC COMMITTEE**\
+
+Abdul Rahman Mohd Kasim\
+(Universiti Malaysia Pahang, Malaysia)\
+
+Adrian Dusa\
+(University of Bucharest, Romania)\
+
+Ahmad Qushairi Mohamad\
+(Universiti Teknologi Malaysia)\
+
+Ana Maria Dobre\
+(National Institute of Statistics, Bucharest, Romania)\
+
+Antoniade-Ciprian Alexandru\
+(Ecological University of Bucharest, Romania)\
+
+Bogdan Oancea\
+(The University of Bucharest and National Institute of Statistics, Bucharest, Romania)\
+
+Dorin Jula\
+(Romanian Academy, Institute for Economic Forecasting and Ecological University of Bucharest, Romania)\
+
+Elena Druica\
+(University of Bucharest, Romania)\
+
+Gerald Cheang\
+(University of South Australia, Australia)\
+
+Gheorghe Zaman\
+(Romanian Academy, Institute of National Economy, Bucharest, Romania)\
+
+Lucian Liviu Albu\
+(Romanian Academy, Institute for Economic Forecasting, Bucharest, Romania)\
+
+Matthias Templ\
+(Statistics Austria & Zurich University of Applied Sciences, Switzerland)\
+
+Mohd Rijal Ilias\
+(Universiti Teknologi MARA, Malaysia)\
+
+Monica Roman\
+(Bucharest University of Economic Studies, Romania)\
+
+Nicolae-Marius Jula\
+(Nicolae Titulescu University, Bucharest, Romania)\
+
+Nurnadiah Zamri\
+(Universiti Sultan Zainal Abidin, Malaysia)\
+
+Nurul Hila Zainuddin\
+(Universiti Pendidikan Sultan Idris, Malaysia)\
+
+Tudorel Andrei \
+(National Institute of Statistics  Bucharest and University of Economic Studies, Bucharest, Romania)\
+
+Valentina Vasile\
+(Romanian Academy, Institute of National Economy, Bucharest, Romania)\
+
+Zakiah Ibrahim Kalantan\
+(King Abdulaziz University, Saudi Arabia)\
+
+Maslina Abdul Aziz\
+(Universiti Teknologi MARA, Malaysia)\
+
+Anang Kurnia\
+(Bogor Agricultural University, IPB)\
+
+Rhysa Mcneil\
+(Prince of Songkla University)\
+
+Suhartono\
+(Institut Teknologi Sepuluh Nopember)\
+:::
+
+:::
+
+</center>
+
+---
+
+## CONTACT US\
+
++-----------------:+----------------------------------------------------------+
+| **E mail:**      | [icms2021\@uitm.edu.my](mailto:icms2021@uitm.edu.my)     |
++------------------+----------------------------------------------------------+
+| **Phone:**       | +604-456 2408 (Kamarul Ariffin Mansor) (Publication)     |
+|                  |                                                          |
+|                  | +604-456 2476 (Ida Normaya Mohd Nasir) (General Inquiry) |
+|                  |                                                          |
+|                  | +604-456 2445 (Noor Hafizah Zainal Aznam) (Payment)      |
+|                  |                                                          |
+|                  | +604-456 2422 (Kartini Kasim) (Workshop)                 |
++------------------+----------------------------------------------------------+
+| **Address:**     | Secretariat iCMS2021                                     |
+|                  |                                                          |
+|                  | Faculty of Computer & Mathematical Sciences              |
+|                  |                                                          |
+|                  | Universiti Teknologi MARA Kedah Branch                   |
+|                  |                                                          |
+|                  | Sungai Petani Campus                                     |
+|                  |                                                          |
+|                  | 08400 Merbok                                             |
+|                  |                                                          |
+|                  | Kedah Darul Aman, MALAYSIA                               |
++------------------+----------------------------------------------------------+
+
+**DISCLAIMER**
+
+All information submitted for the purpose of registration to the conference and fee payment will be treated with strict confidentiality.
+
+UiTM and the organizing committee shall not be able to accept refund requests.
+
+:::{.column-screen}
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7940.046924816018!2d100.44855080950923!3d5.709748581724618!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304b28adfa3c0e53%3A0xe310799cc09dac88!2sUiTM%20Kedah!5e0!3m2!1sen!2smy!4v1702024845764!5m2!1sen!2smy" width="1420" height="600" style="border:0;" allowfullscreen="true" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+:::
+
+
