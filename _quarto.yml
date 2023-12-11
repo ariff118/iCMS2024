@@ -9,7 +9,7 @@ website:
     contents:
       - section: "Walk through the websites"
         contents:
-          - text: "🏠 Home"
+          - text: "🏠 Home iCMS 2024"
             href: index.qmd
           - text: "iCMS 2021"
             href: https://uitmicms.wixsite.com/icms2021
