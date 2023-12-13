@@ -38,7 +38,7 @@ As we gear up for iCMS 2024, our fifth international conference, we are excited 
 
 ::: {.column width="45%"}
 **Organized by:**\
-![](images/uitm.png){width=150px}
+![](images/uitm_rb.png){width=250px}
 :::
 
 ::: {.column width="10%"}
@@ -215,9 +215,9 @@ Computational Science\
 
 We are committed to include camera-ready paper submitted to iCMS2021 in our e-Proceeding book to ensure all authors can benefit from them. Attached is the iCMS 2021 e-Proceedings.\
 
-Title       : e-Proceedings of the 5th International Conference on Computing, Mathematics and Statistics (iCMS 2021)\
+Title       : e-Proceedings of the 5th International Conference on Computing, Mathematics and Statistics (iCMS 2024)\
 Publisher   : Universiti Teknologi MARA Kedah Branch\
-e-ISBN      : 978-967-2948-12-4\
+e-ISBN      : 978-967-xxxx-xx-x\
 
 Selected papers will be considered for publication in the selected journals as listed below.\
 
@@ -235,6 +235,60 @@ Selected authors will be invited to prepare an extended version of their paper (
 
 Author will need to follow the template provided by the selected journal.\
 
+**Previous Publications**\
+
+::: {.columns}
+
+::: {.column width="24%"}
+<center>
+**iCMS 2021**\
+[![iCMS 2021](images/pubs/icms2021.png)](https://36f92a07-7496-48b7-b8c5-d4b3a7a690bd.filesusr.com/ugd/9483e7_fa3419ecd9a748208fc6b7e8d5421225.pdf){target="_blank"}
+</center>
+:::
+
+::: {.column width="1%"}
+
+:::
+
+::: {.column width="25%"}
+<center>
+**iCMS 2019**\
+[![Mathematics and Statistics](images/pubs/icms2019_1.gif)](http://www.hrpub.org/journals/jour_info.php?id=34){target="_blank"}\
+
+[![Universal Journal of Electrical and Electronic Engineering](images/pubs/icms2019_2.gif)](http://www.hrpub.org/journals/jour_archive.php?id=49){target="_blank"}\
+
+[![Universal Journal of Mechanical Engineering](images/pubs/icms2019_3.gif)](http://www.hrpub.org/journals/jour_archive.php?id=51){target="_blank"}\
+
+[![Civil Engineering and Architecture](images/pubs/icms2019_4.gif)](http://www.hrpub.org/journals/jour_archive.php?id=48&iid=1431){target="_blank"}\
+
+[![Universal Journal of Educational Research](images/pubs/icms2019_5.gif)](http://www.hrpub.org/journals/jour_info.php?id=95){target="_blank"}\
+
+[![Austrian Journal of Statistics](images/pubs/icms2019_6.gif)](https://www.ajs.or.at/index.php/ajs){target="_blank"}\
+</center>
+:::
+
+::: {.column width="25%"}
+<center>
+**iCMS 2017**\
+[![](images/pubs/icms2017_1.png)](https://www.springer.com/gp/book/9789811372780){target="_blank"}\
+
+![](images/pubs/icms2017_2.png)\
+
+![](images/pubs/icms2017_3.png)\
+</center>
+:::
+
+::: {.column width="25%"}
+<center>
+**iCMS 2015**\
+![](images/pubs/icms2015_1.png)\
+
+![](images/pubs/icms2015_2.png)\
+</center>
+:::
+
+:::
+
 ---
 
 ## REGISTRATION & SUBMISSION\
@@ -243,7 +297,7 @@ Authors are required to submit abstracts, full papers, and camera-ready papers s
 
 To register for conference, please click the icon below:\
 
-[![Conference Bay](images/iconfbay.png)](https://submit.confbay.com/)
+[![Conference Bay](images/iconfbay.png)](https://submit.confbay.com/){target="_blank"}
 
 ---
 
@@ -330,7 +384,7 @@ RM100/USD30\
 
 Please send the bank transaction slip or receipt as proof of payment by uploading to\
 
-![](images/iconfbay.png){width=150px}
+![](images/iconfbay.png){width=150px target="_blank"}
 *All monies paid are non-refunable
 </center>
 
@@ -339,14 +393,32 @@ Please send the bank transaction slip or receipt as proof of payment by uploadin
 ## DOWNLOAD\
 
 ### Abstract\
+[![](images/word.png){width=100px}](files/iCMS2021_ABSTRACT_Template.docx){target="_blank"}\
 
 ### Full paper\
+::: {.columns}
+::: {.column width="50%"}
+[![](images/word.png){width=100px}](files/iCMS21 full paper template.docx){target="_blank"}
+:::
+::: {.column width="50%"}
+[![](images/latex.png){width=100px}](files/iCMS2021 New Template.zip){target="_blank"}\
+:::
+:::
 
 ### Camera  Ready\
+::: {.columns}
+::: {.column width="50%"}
+[![](images/word.png){width=100px}](files/iCMS21 camera ready template.docx){target="_blank"}
+:::
+::: {.column width="50%"}
+[![](images/latex.png){width=100px}](files/iCMS2021 New Template.rar){target="_blank"}\
+:::
+:::
 
 ### Brochure\
 
 ### Presentation\
+[![](images/ppt.png){width=100px}](files/iCMS2021_Powerpoint Presentation Template.pptx){target="_blank"}\
 
 ---
 
