@@ -2,6 +2,29 @@ project:
   type: website
 
 website:
+  navbar: 
+    left:
+      - text: "🏠 Home iCMS 2024"
+        file: index.qmd
+    right:
+      - text: "About iCMS 2024"
+        file: about.qmd
+      - text: "Call for paper"
+        menu:
+          - text: "Important Dates"
+            file: call_for_papers.qmd
+          - text: "Tracks"
+            file: tracks.qmd
+          - text: "Publications Opportunity"
+            file: publications.qmd
+      - text: "Registration & Submission"
+        file: register.qmd
+      - text: "Fees & Payment"
+        file: fees.qmd
+      - text: "Our Teams"
+        file: our_teams.qmd
+      - text: "Contact"
+        file: contacts.qmd
   sidebar:
     style: "floating"
     search: false

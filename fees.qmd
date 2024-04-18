@@ -1,0 +1,64 @@
+---
+title: "Fees & Payment"
+---
+
+## FEES & PAYMENT\
+
+<center>
+### [**Conference Fee**]{style="color:green;"}
++:----------------------------------------:+:-----------------------:+
+| Early Bird                               | RM350/USD90             |
+|                                          |                         |
+| Normal                                   | RM450/USD115            |
+|                                          |                         |
+| Student/UiTM Staff                       | RM350/USD90             |
+|                                          |                         |
+| Group of 3                               | RM330(each)/USD85(each) |
++------------------------------------------+-------------------------+
+
+### [**Workshop Fee**]{style="color:green;"}\
+RM100/USD30\
+\
+\
+
+### [**Mode of Payments**]{style="color:green;"}\
+
+#### For Local Participants/Presenters\
+
+[Academic Institutional cheques/ Banker’s cheques/Inter Bank Giro (IBG)/Bank Transfer/Government Local Order (LO) (Personal cheques are not accepted).]{style="color:purple;"}\
+
+[All cheques must be made payable to “Bendahari UiTM Kedah”.]{style="color:purple;"}\
+
+#### For International Participants/Presenters\
+
+[Telegraphic Transfers/Electronic Transfers ONLY (including bank charges).]{style="color:purple;"}\
+
+#### For International Participants/Presenters\
+
++--------------------------------------------:+------------------------------------------------+
+| **Bank Name:**                              | Bank Islam Malaysia Bhd (Sungai Petani Branch) |
++---------------------------------------------+------------------------------------------------+
+| **Bank Address:**                           | No.71&72 Lorong Lagenda 1                      |
+|                                             |                                                |
+|                                             | Lagenda Heights                                |
+|                                             |                                                |
+|                                             | 08000 Sungai Petani, Kedah, MALAYSIA           |
++---------------------------------------------+------------------------------------------------+
+| **Bank Account Number:**                    | 02020010080212                                 |
++---------------------------------------------+------------------------------------------------+
+| **Bank Account Name :**                     | Tetuan UiTM Cawangan Kedah                     |
++---------------------------------------------+------------------------------------------------+
+| **Pay to:**                                 | Bendahari UiTM Kedah                           |
++---------------------------------------------+------------------------------------------------+
+| **Swift Code:**                             | BIMBMYKL                                       |
++---------------------------------------------+------------------------------------------------+
+| **GST Registration Number for UiTM Kedah:** | 001418756096                                   |
++---------------------------------------------+------------------------------------------------+
+
+Please send the bank transaction slip or receipt as proof of payment by uploading to\
+
+![](images/iconfbay.png){width=150px target="_blank"}
+*All monies paid are non-refunable
+</center>
+
+---

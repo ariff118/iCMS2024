@@ -1,0 +1,116 @@
+---
+title: "Our Teams"
+---
+
+## COMMITTEE\
+
+<center>
+
+::: {.columns}
+
+::: {.column width="48%"}
+**ORGANIZING COMMITTEE\
+(Universiti Teknologi MARA Kedah Branch)**\
+
+Afida Ahmad\
+Asmahani Nayan\
+Fazillah Bosli\
+Ida Normaya Mohd Nasir\
+Juaini Jamaludin\
+Kamarul Ariffin Mansor\
+Norliana Mohd Najib\
+Nora Baizura\
+Norin Rahayu Shamsudin\
+Nor Athirah Mohd Zin\
+Nur Syafizan Mohd Sufter\
+Rosidah Ahmad\
+Shahida Farhan Zakaria\
+Siti Nur Alwani Salleh\
+Syafiza Saila Samsudin\
+:::
+
+::: {.column width="4%"}
+
+:::
+
+::: {.column width="48%"}
+**SCIENTIFIC COMMITTEE**\
+
+Abdul Rahman Mohd Kasim\
+(Universiti Malaysia Pahang, Malaysia)\
+
+Adrian Dusa\
+(University of Bucharest, Romania)\
+
+Ahmad Qushairi Mohamad\
+(Universiti Teknologi Malaysia)\
+
+Ana Maria Dobre\
+(National Institute of Statistics, Bucharest, Romania)\
+
+Antoniade-Ciprian Alexandru\
+(Ecological University of Bucharest, Romania)\
+
+Bogdan Oancea\
+(The University of Bucharest and National Institute of Statistics, Bucharest, Romania)\
+
+Dorin Jula\
+(Romanian Academy, Institute for Economic Forecasting and Ecological University of Bucharest, Romania)\
+
+Elena Druica\
+(University of Bucharest, Romania)\
+
+Gerald Cheang\
+(University of South Australia, Australia)\
+
+Gheorghe Zaman\
+(Romanian Academy, Institute of National Economy, Bucharest, Romania)\
+
+Lucian Liviu Albu\
+(Romanian Academy, Institute for Economic Forecasting, Bucharest, Romania)\
+
+Matthias Templ\
+(Statistics Austria & Zurich University of Applied Sciences, Switzerland)\
+
+Mohd Rijal Ilias\
+(Universiti Teknologi MARA, Malaysia)\
+
+Monica Roman\
+(Bucharest University of Economic Studies, Romania)\
+
+Nicolae-Marius Jula\
+(Nicolae Titulescu University, Bucharest, Romania)\
+
+Nurnadiah Zamri\
+(Universiti Sultan Zainal Abidin, Malaysia)\
+
+Nurul Hila Zainuddin\
+(Universiti Pendidikan Sultan Idris, Malaysia)\
+
+Tudorel Andrei \
+(National Institute of Statistics  Bucharest and University of Economic Studies, Bucharest, Romania)\
+
+Valentina Vasile\
+(Romanian Academy, Institute of National Economy, Bucharest, Romania)\
+
+Zakiah Ibrahim Kalantan\
+(King Abdulaziz University, Saudi Arabia)\
+
+Maslina Abdul Aziz\
+(Universiti Teknologi MARA, Malaysia)\
+
+Anang Kurnia\
+(Bogor Agricultural University, IPB)\
+
+Rhysa Mcneil\
+(Prince of Songkla University)\
+
+Suhartono\
+(Institut Teknologi Sepuluh Nopember)\
+:::
+
+:::
+
+</center>
+
+---

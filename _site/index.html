@@ -43,11 +43,11 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
-  "location": "sidebar",
+  "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
-  "panel-placement": "start",
-  "type": "textbox",
+  "panel-placement": "end",
+  "type": "overlay",
   "limit": 20,
   "language": {
     "search-no-results-text": "No results",
@@ -74,7 +74,7 @@ ul.task-list li input[type="checkbox"] {
 background-size: cover;
     }
     </style>
-</head><body class="nav-sidebar floating"><div id="progress-bar" style="width: 0%; height:2px; background-color: rgb(89 127 235);; position: fixed; top: 0px; z-index: 2000;"></div>
+</head><body class="nav-sidebar floating nav-fixed"><div id="progress-bar" style="width: 0%; height:2px; background-color: rgb(89 127 235);; position: fixed; top: 0px; z-index: 2000;"></div>
 
 <script id="progressbar" type="text/javascript">
 
@@ -100,6 +100,65 @@ document.addEventListener("DOMContentLoaded", function() {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
+ <span class="menu-text">🏠 Home iCMS 2024</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./about.html" rel="" target="">
+ <span class="menu-text">About iCMS 2024</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-call-for-paper" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">Call for paper</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-call-for-paper">    
+        <li>
+    <a class="dropdown-item" href="./call_for_papers.html" rel="" target="">
+ <span class="dropdown-text">Important Dates</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./tracks.html" rel="" target="">
+ <span class="dropdown-text">Tracks</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./publications.html" rel="" target="">
+ <span class="dropdown-text">Publications Opportunity</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="./register.html" rel="" target="">
+ <span class="menu-text">Registration &amp; Submission</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./fees.html" rel="" target="">
+ <span class="menu-text">Fees &amp; Payment</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./our_teams.html" rel="" target="">
+ <span class="menu-text">Our Teams</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./contacts.html" rel="" target="">
+ <span class="menu-text">Contact</span></a>
+  </li>  
+</ul>
+            <div class="quarto-navbar-tools">
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -128,7 +187,7 @@ document.addEventListener("DOMContentLoaded", function() {
     </div>
     
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
     <div class="sidebar-menu-container"> 
@@ -1110,7 +1169,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"openEffect":"zoom","loop":true,"descPosition":"bottom","selector":".lightbox","closeEffect":"zoom"});</script>
+<script>var lightboxQuarto = GLightbox({"loop":true,"descPosition":"bottom","selector":".lightbox","closeEffect":"zoom","openEffect":"zoom"});</script>
 
 
 

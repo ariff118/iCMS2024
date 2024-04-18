@@ -1,0 +1,38 @@
+---
+title: "Registration & Submission"
+---
+
+## REGISTRATION & SUBMISSION\
+  
+Authors are required to submit abstracts, full papers, and camera-ready papers separately using the confBay conference management system. Kindly click on the confBay icon below to go to the submission page. You have to create a confBay account first before you are allowed to log in to the submission page.\
+
+To register for conference, please click the icon below:\
+
+[![Conference Bay](images/iconfbay.png)](https://submit.confbay.com/){target="_blank"}
+
+---
+  
+## DOWNLOAD\
+
+### Abstract\
+[![](images/word.png){width=100px}](files/iCMS2021_ABSTRACT_Template.docx){target="_blank"}\
+
+### Full paper\
+::: {.columns}
+::: {.column width="50%"}
+[![](images/word.png){width=100px}](files/iCMS21 full paper template.docx){target="_blank"}
+:::
+::: {.column width="50%"}
+[![](images/latex.png){width=100px}](files/iCMS2021 New Template.zip){target="_blank"}\
+:::
+:::
+
+### Camera  Ready\
+::: {.columns}
+::: {.column width="50%"}
+[![](images/word.png){width=100px}](files/iCMS21 camera ready template.docx){target="_blank"}
+:::
+::: {.column width="50%"}
+[![](images/latex.png){width=100px}](files/iCMS2021 New Template.rar){target="_blank"}\
+:::
+:::

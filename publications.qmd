@@ -1,0 +1,81 @@
+---
+title: "Publication"
+---
+  
+## PUBLICATION\
+
+We are committed to include camera-ready paper submitted to iCMS2021 in our e-Proceeding book to ensure all authors can benefit from them. Attached is the iCMS 2021 e-Proceedings.\
+
+Title       : e-Proceedings of the 5th International Conference on Computing, Mathematics and Statistics (iCMS 2024)\
+Publisher   : Universiti Teknologi MARA Kedah Branch\
+e-ISBN      : 978-967-xxxx-xx-x\
+
+Selected papers will be considered for publication in the selected journals as listed below.\
+
+**Publication Opportunities:**\
+
+1. Voice of Academia (VoA)\
+2. Austrian Journal of Statistics \
+3. Romanian Statistical Review\
+4. Journal of Applied Mathematics and Computational Intelligence (AMCI)\
+5. Journal of Creative Practices in Language Learning and Teaching (CPLT)\
+6. Malaysian Journal of Fundamental and Applied Sciences (MJFAS)\
+7. Journal of Information and Communication Technology (JICT)\
+
+Selected authors will be invited to prepare an extended version of their paper (more than 30% changes), which will be published after editorial board & evaluators approval and additional cost may apply.\
+
+Author will need to follow the template provided by the selected journal.\
+
+**Previous Publications**\
+
+::: {.columns}
+
+::: {.column width="24%"}
+<center>
+  **iCMS 2021**\
+[![iCMS 2021](images/pubs/icms2021.png)](https://36f92a07-7496-48b7-b8c5-d4b3a7a690bd.filesusr.com/ugd/9483e7_fa3419ecd9a748208fc6b7e8d5421225.pdf){target="_blank"}
+</center>
+:::
+  
+::: {.column width="1%"}
+
+:::
+  
+::: {.column width="25%"}
+<center>
+  **iCMS 2019**\
+[![Mathematics and Statistics](images/pubs/icms2019_1.gif)](http://www.hrpub.org/journals/jour_info.php?id=34){target="_blank"}\
+
+[![Universal Journal of Electrical and Electronic Engineering](images/pubs/icms2019_2.gif)](http://www.hrpub.org/journals/jour_archive.php?id=49){target="_blank"}\
+
+[![Universal Journal of Mechanical Engineering](images/pubs/icms2019_3.gif)](http://www.hrpub.org/journals/jour_archive.php?id=51){target="_blank"}\
+
+[![Civil Engineering and Architecture](images/pubs/icms2019_4.gif)](http://www.hrpub.org/journals/jour_archive.php?id=48&iid=1431){target="_blank"}\
+
+[![Universal Journal of Educational Research](images/pubs/icms2019_5.gif)](http://www.hrpub.org/journals/jour_info.php?id=95){target="_blank"}\
+
+[![Austrian Journal of Statistics](images/pubs/icms2019_6.gif)](https://www.ajs.or.at/index.php/ajs){target="_blank"}\
+</center>
+:::
+  
+::: {.column width="25%"}
+<center>
+**iCMS 2017**\
+[![](images/pubs/icms2017_1.png)](https://www.springer.com/gp/book/9789811372780){target="_blank"}\
+
+![](images/pubs/icms2017_2.png)\
+
+![](images/pubs/icms2017_3.png)\
+</center>
+:::
+  
+::: {.column width="25%"}
+<center>
+**iCMS 2015**\
+![](images/pubs/icms2015_1.png)\
+
+![](images/pubs/icms2015_2.png)\
+</center>
+:::
+  
+:::

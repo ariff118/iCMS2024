@@ -1,0 +1,126 @@
+---
+title: "Tracks"
+---
+
+## TRACKS\
+  
+::: {.columns}
+
+::: {.column width="45%"}
+
+<center>
+**Mathematics**\
+
+Actuarial Science\
+Applied Mathematics\
+Biomathematics\
+Financial Engineering / Financial Mathematics / Quantitative Finance\
+Formalization of Mathematics\
+Foundation of Mathematics\
+Mathematics\
+Mathematical Software Design and Implementation\
+Mathematical Modelling\
+Mathematical Physics\
+Pure Mathematics\
+System Dynamics\
+</center>
+  
+:::
+  
+::: {.column width="10%"}
+
+:::
+  
+::: {.column width="45%"}
+
+<center>
+**Statistics**\
+
+Applied Statistics\
+Biostatistics/ Epidemiology\
+Bioinformatics\
+Business Statistics\
+Computational Statistics\
+Data Mining\
+Economerics\
+Environmental Statistics\
+Industrial Statistics\
+Industrial Quality Control\
+Modelling and Simulation\
+Operations Research\
+Probability\
+Quantitative Methods\
+System Dynamics\
+</center>
+  
+:::
+  
+:::
+\
+\
+
+::: {.columns}
+
+::: {.column width="32%"}
+
+<center>
+**R and its Users**\
+
+R & Other Languages/ Systems\
+R Community\
+R for Statistical Computing\
+R in Economics, Business and Industry\
+R in Ecology and Environment\
+R in Education\
+R in Official Statistic\
+R in Medical Research\
+Reproducible Research\
+Visualization & Graphics\
+</center>
+  
+:::
+  
+::: {.column width="2%"}
+
+:::
+  
+::: {.column width="32%"}
+
+<center>
+**Computer Science/ Mathematics/ Statistics Education (CMS)**\
+
+Innovative Teaching and Learning in CMS\
+Evaluation and Assessment in CMS Education\
+Using Technology in CMS Education\
+Visualization in the Teaching and Learning of CMS\
+Mathematics Education at Preschool Level\
+Problem Solving in Mathematics Education\
+Activities and Programs for Students with Special Needs\
+</center>
+  
+:::
+  
+::: {.column width="2%"}
+
+:::
+  
+::: {.column width="32%"}
+
+<center>
+**Computer Science & Information Technology**\
+
+Algorithms and theory\
+Software engineering\
+Concurrent, distributed and parallel computing\
+Computer architecture\
+Computer Networking and Networked Systems\
+Security and privacy\
+Information Science\
+Artificial intelligence\
+Computer graphics and Visualization\
+Computational Science\
+</center>
+  
+:::
+  
+:::

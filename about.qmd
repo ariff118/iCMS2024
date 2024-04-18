@@ -1,0 +1,48 @@
+---
+title: "About iCMS 2024"
+---
+
+## About iCMS 2024\
+
+The International Conference on Computing, Statistics, and Mathematics (iCMS) has been a biennial gathering since its inception in 2013, and we are thrilled to announce the upcoming iCMS 2024, marking our fifth conference after the successful iCMS 2021. Organized by the Faculty of Computer and Mathematical Sciences at Universiti Teknologi MARA (UiTM) Kedah, Malaysia, iCMS continues to be a key forum focusing on the disciplines of computing, mathematics, and statistics, exploring their applications and advancements.\
+
+Throughout the years, iCMS has consistently attracted high-quality papers from both local and global contributors, covering a diverse range of subjects within these three domains. Notably, iCMS 2017 achieved significant success with all presented papers published in indexed journals and proceedings. In the subsequent iCMS 2019, over 100 papers were accepted, with a substantial portion published in Scopus indexed journals, and the rest in various other suitable indexed journals.\
+
+The organizing committee has also successfully hosted pre-conference workshops, such as the "Visualization of Tidy Data," conducted by the internationally renowned expert, Dr. Matthias Templ from Statistics Austria and Vienna University of Technology, garnering positive feedback from participants.\
+
+In our previous conference, iCMS 2021, we celebrated a significant milestone and expanded our offerings with the successful inclusion of two pre-conference workshops. Pre-Conference Workshop 1, titled "Predictive Analytics using IBM SPSS Modeller 18" was conducted by Prof. Dr. Yap Bee Wah from the Institute for Big Data Analytics and Artificial Intelligence at Universiti Teknologi MARA (UiTM) Shah Alam. Prof. Dr. Yap shared valuable insights into predictive analytics, leveraging the capabilities of IBM SPSS Modeler 18.\
+
+Additionally, Pre-Conference Workshop 2, titled "R Markdown in Academic Writing" was led by Mr. Kamarul Ariffin Mansor from Universiti Teknologi MARA (UiTM) Kedah. Mr. Kamarul Ariffin Mansor guided participants through the effective use of R Markdown in academic writing, offering practical tips for enhancing the presentation and communication of research findings.\
+
+As we gear up for iCMS 2024, our fifth international conference, we are excited to reveal the theme for this edition, "Accelerating Innovation: Navigating the Road to Research Excellence". Building on the momentum of the previous conference's theme, "Driving Research Toward Excellence," we aim to further explore the rapid advancements in computing, mathematics, and statistics across various facets of life. We firmly believe that iCMS 2024 will provide an unparalleled platform for researchers to showcase their practical solutions, fostering collaboration, and acting as a catalyst for stimulating innovative ideas that will shape the future of research and advancements. Join us in this journey towards excellence at iCMS 2024!\
+
+<center>
+::: {.columns}
+
+::: {.column width="45%"}
+**Organized by:**\
+![](images/uitm_rb.png){width=250px}
+:::
+
+::: {.column width="10%"}
+
+:::
+
+::: {.column width="45%"}
+**Supporting partners:**\
+
+::: {.columns}
+::: {.column width="45%"}
+![](images/eub.png){width=75px}
+:::
+
+::: {.column width="45%"}
+![](images/Rlogo.png){width=75px}
+:::
+:::
+
+:::
+
+:::
+
+</center>
