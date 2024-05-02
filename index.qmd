@@ -1,5 +1,5 @@
 ---
-title: "iCMS 2024"
+title: "iCMS 2025"
 title-block-banner: "images/sp.jpg"
 # title-block-banner: "images/hero.jpg"
 # title-block-banner-alt: "Taylor Swift on stage with a microphone in hand, likely during a concert. The individual is facing towards the right, with their head turned to look at the camera, giving a confident smile. They are wearing a glittering bodysuit adorned with sequins in shades of gold and blue, paired with fishnet stockings and sparkling knee-high boots. At the top of the image, in large white text against a black background, reads TAYLOR'S TOWERING YEAR. Below the main image, a bar of smaller images or possibly a visual data representation features the text ERAS TOUR TOLD BY DATA with some letters clear and others obscured by heart symbols replacing the Os."
