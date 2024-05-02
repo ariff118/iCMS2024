@@ -5,7 +5,7 @@ title: "Contact Us:"
 ## CONTACT US\
 
 +-----------------:+----------------------------------------------------------+
-| **E mail:**      | [icms2024\@uitm.edu.my](mailto:icms2024@uitm.edu.my)     |
+| **E mail:**      | [kdh.icms2025@gmail.com](mailto:kdh.icms2025@gmail.com)     |
 +------------------+----------------------------------------------------------+
 | **Phone:**       | +604-456 xxxx (xxxx) (Publication)     |
 |                  |                                                          |
@@ -15,7 +15,7 @@ title: "Contact Us:"
 |                  |                                                          |
 |                  | +604-456 xxxx (xxxx) (Workshop)                 |
 +------------------+----------------------------------------------------------+
-| **Address:**     | Secretariat iCMS2024                                     |
+| **Address:**     | Secretariat iCMS2025                                     |
 |                  |                                                          |
 |                  | Faculty of Computer & Mathematical Sciences              |
 |                  |                                                          |
