@@ -215,7 +215,7 @@ Computational Science\
 
 We are committed to include camera-ready paper submitted to iCMS2021 in our e-Proceeding book to ensure all authors can benefit from them. Attached is the iCMS 2021 e-Proceedings.\
 
-Title       : e-Proceedings of the 5th International Conference on Computing, Mathematics and Statistics (iCMS 2024)\
+Title       : e-Proceedings of the 5th International Conference on Computing, Mathematics and Statistics (iCMS 2025)\
 Publisher   : Universiti Teknologi MARA Kedah Branch\
 e-ISBN      : 978-967-xxxx-xx-x\
 
@@ -428,7 +428,7 @@ For more information about programme schedule please click the button below.\
 
 Button\
 
-Please note, this programme schedule is subject to change at any time. If you have any queries about the schedule, please feel free to contact us by email at [icms2021@uitm.edu.my](icms2021@uitm.edu.my)\
+Please note, this programme schedule is subject to change at any time. If you have any queries about the schedule, please feel free to contact us by email at [kdh.icms2025@gmail.com](kdh.icms2025@gmail.com)\
 
 ---
 
@@ -558,7 +558,7 @@ Suhartono\
 |                  |                                                          |
 |                  | +604-456 xxxx (xxxx) (Workshop)                 |
 +------------------+----------------------------------------------------------+
-| **Address:**     | Secretariat iCMS2024                                     |
+| **Address:**     | Secretariat iCMS2025                                     |
 |                  |                                                          |
 |                  | Faculty of Computer & Mathematical Sciences              |
 |                  |                                                          |
