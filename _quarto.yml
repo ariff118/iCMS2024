@@ -4,10 +4,10 @@ project:
 website:
   navbar: 
     left:
-      - text: "🏠 Home iCMS 2024"
+      - text: "🏠 Home iCMS 2025"
         file: index.qmd
     right:
-      - text: "About iCMS 2024"
+      - text: "About iCMS 2025"
         file: about.qmd
       - text: "Call for paper"
         menu:
@@ -32,7 +32,7 @@ website:
     contents:
       - section: "Walk through the websites"
         contents:
-          - text: "🏠 Home iCMS 2024"
+          - text: "🏠 Home iCMS 2025"
             href: index.qmd
           - text: "iCMS 2021"
             href: https://uitmicms.wixsite.com/icms2021
