@@ -21,7 +21,7 @@ format: html
 
 <!-- iCMS2021 will be our fifth international conference. The theme of this coming conference is “Driving Research Toward Excellence”. Given the rapidity with which computing, mathematics, and statistics are advancing in all areas of life, we strongly believed that this upcoming conference is the best platform available for researchers to come together presenting their practical solutions for a better tomorrow as well as become a catalyst for stimulating ideas to further enhance future research and innovations.\ -->
 
-The International Conference on Computing, Statistics, and Mathematics (iCMS) has been a biennial gathering since its inception in 2013, and we are thrilled to announce the upcoming iCMS 2024, marking our fifth conference after the successful iCMS 2021. Organized by the Faculty of Computer and Mathematical Sciences at Universiti Teknologi MARA (UiTM) Kedah, Malaysia, iCMS continues to be a key forum focusing on the disciplines of computing, mathematics, and statistics, exploring their applications and advancements.\
+The International Conference on Computing, Statistics, and Mathematics (iCMS) has been a biennial gathering since its inception in 2013, and we are thrilled to announce the upcoming iCMS 2025, marking our fifth conference after the successful iCMS 2021. Organized by the Faculty of Computer and Mathematical Sciences at Universiti Teknologi MARA (UiTM) Kedah, Malaysia, iCMS continues to be a key forum focusing on the disciplines of computing, mathematics, and statistics, exploring their applications and advancements.\
 
 Throughout the years, iCMS has consistently attracted high-quality papers from both local and global contributors, covering a diverse range of subjects within these three domains. Notably, iCMS 2017 achieved significant success with all presented papers published in indexed journals and proceedings. In the subsequent iCMS 2019, over 100 papers were accepted, with a substantial portion published in Scopus indexed journals, and the rest in various other suitable indexed journals.\
 
@@ -71,13 +71,13 @@ The Faculty of Computer and Mathematical Sciences of Universiti Teknologi MARA (
 
 **Important dates**
 
-Abstract Submission Deadline: 1 July 2024\
+Abstract Submission Deadline: 1 Sept 2024\
 Notification of Abstract Acceptance: Rolling\
-Full Paper Submission Deadline: 15 July 2024\
-Camera Ready Paper Deadline: 31 July 2024\
+Full Paper Submission Deadline: 15 Oct 2024\
+Camera Ready Paper Deadline: 20 December 2024\
 Online Registration Deadline: Rolling\
 
-Early bird Payments: 30 April 2024\
+Early bird Payments: 1 December 2024\
 Full Payment Deadline: 15 July 2024\
 
 Pre-Conference Workshop Date: 2 September 2024\
@@ -548,7 +548,7 @@ Suhartono\
 ## CONTACT US\
 
 +-----------------:+----------------------------------------------------------+
-| **E mail:**      | [icms2024\@uitm.edu.my](mailto:icms2024@uitm.edu.my)     |
+| **E mail:**      | [kdh.icms2025\@gmail.com](mailto:kdh.icms2025@gmail.com)     |
 +------------------+----------------------------------------------------------+
 | **Phone:**       | +604-456 xxxx (xxxx) (Publication)     |
 |                  |                                                          |
