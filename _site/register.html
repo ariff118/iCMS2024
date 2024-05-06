@@ -69,7 +69,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-</head><body class="nav-sidebar floating nav-fixed"><div id="progress-bar" style="width: 0%; height:2px; background-color: rgb(89 127 235);; position: fixed; top: 0px; z-index: 2000;"></div>
+</head><body class="nav-sidebar floating nav-fixed fullcontent"><div id="progress-bar" style="width: 0%; height:2px; background-color: rgb(89 127 235);; position: fixed; top: 0px; z-index: 2000;"></div>
 
 
 
@@ -218,32 +218,13 @@ document.addEventListener("DOMContentLoaded", function() {
   </li>
     </ul>
     </div>
-    <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Table of Contents</h2>
-   
-  <ul>
-  <li><a href="#registration-submission" id="toc-registration-submission" class="nav-link active" data-scroll-target="#registration-submission">REGISTRATION &amp; SUBMISSION<br>
-  </a></li>
-  <li><a href="#download" id="toc-download" class="nav-link" data-scroll-target="#download">DOWNLOAD<br>
-  </a>
-  <ul class="collapse">
-  <li><a href="#abstract" id="toc-abstract" class="nav-link" data-scroll-target="#abstract">Abstract<br>
-  </a></li>
-  <li><a href="#full-paper" id="toc-full-paper" class="nav-link" data-scroll-target="#full-paper">Full paper<br>
-  </a></li>
-  <li><a href="#camera-ready" id="toc-camera-ready" class="nav-link" data-scroll-target="#camera-ready">Camera Ready<br>
-  </a></li>
-  </ul></li>
-  </ul>
-</nav>
 <div class="quarto-sidebar-footer"><div class="sidebar-footer-item">
 <iframe style="border-radius:12px" src="https://www.youtube.com/embed/videoseries?si=EGfRgYaH2_qweTJ8&amp;list=PLcFpKFmwR2xDqmMeNLxU5ccwyrnsj0DQh" width="100%" height="152" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 </div></div></nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    </div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -770,7 +751,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"selector":".lightbox","closeEffect":"zoom","openEffect":"zoom","loop":false,"descPosition":"bottom"});
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;

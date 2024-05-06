@@ -1,3 +1,4 @@
+
 project:
   type: website
 
@@ -91,6 +92,4 @@ format:
       - progress-bar.html
     lightbox: auto
     page-layout: article
-    toc: true
-    toc-location: left
-    toc-title: "Table of Contents"
+  

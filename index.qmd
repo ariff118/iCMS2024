@@ -578,6 +578,7 @@ All information submitted for the purpose of registration to the conference and 
 UiTM and the organizing committee shall not be able to accept refund requests.
 
 :::{.column-screen}
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7940.046924816018!2d100.44855080950923!3d5.709748581724618!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304b28adfa3c0e53%3A0xe310799cc09dac88!2sUiTM%20Kedah!5e0!3m2!1sen!2smy!4v1702024845764!5m2!1sen!2smy" width="1420" height="600" style="border:0;" allowfullscreen="true" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 :::
 
