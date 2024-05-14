@@ -21,7 +21,7 @@ format: html
 
 <!-- iCMS2021 will be our fifth international conference. The theme of this coming conference is “Driving Research Toward Excellence”. Given the rapidity with which computing, mathematics, and statistics are advancing in all areas of life, we strongly believed that this upcoming conference is the best platform available for researchers to come together presenting their practical solutions for a better tomorrow as well as become a catalyst for stimulating ideas to further enhance future research and innovations.\ -->
 
-The International Conference on Computing, Statistics, and Mathematics (iCMS) has been a biennial gathering since its inception in 2013, and we are thrilled to announce the upcoming iCMS 2025, marking our fifth conference after the successful iCMS 2021. Organized by the Faculty of Computer and Mathematical Sciences at Universiti Teknologi MARA (UiTM) Kedah, Malaysia, iCMS continues to be a key forum focusing on the disciplines of computing, mathematics, and statistics, exploring their applications and advancements.\
+The International Conference on Computing, Statistics, and Mathematics (iCMS) has been a biennial gathering since its inception in 2013, and we are thrilled to announce the upcoming iCMS 2025, marking our sixth conference after the successful iCMS 2021. Organized by College of Computing, Informatics and Mathematics at Universiti Teknologi MARA (UiTM) Kedah, Malaysia, iCMS continues to be a key forum focusing on the disciplines of computing, mathematics, and statistics, exploring their applications and advancements.\
 
 Throughout the years, iCMS has consistently attracted high-quality papers from both local and global contributors, covering a diverse range of subjects within these three domains. Notably, iCMS 2017 achieved significant success with all presented papers published in indexed journals and proceedings. In the subsequent iCMS 2019, over 100 papers were accepted, with a substantial portion published in Scopus indexed journals, and the rest in various other suitable indexed journals.\
 
@@ -67,7 +67,7 @@ As we gear up for iCMS 2025, our fifth international conference, we are excited 
 
 ## CALL FOR PAPERS\
 
-The Faculty of Computer and Mathematical Sciences of Universiti Teknologi MARA (UiTM) Kedah is hosting The 5    International Conference on Computing, Mathematics and Statistics 2021 (iCMS2021). The organizing committee invites academicians, researchers, PhD candidates and practitioners worldwide to submit full papers to the conference. \
+College of Computing, Informatics and Mathematics of Universiti Teknologi MARA (UiTM) Kedah is hosting The sixth International Conference on Computing, Mathematics and Statistics 2025 (iCMS2025). The organizing committee invites academicians, researchers, PhD candidates and practitioners worldwide to submit full papers to the conference. \
 
 **Important dates**
 
