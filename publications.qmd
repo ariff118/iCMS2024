@@ -4,9 +4,9 @@ title: "Publication"
   
 ## PUBLICATION\
 
-We are committed to include camera-ready paper submitted to iCMS2021 in our e-Proceeding book to ensure all authors can benefit from them. Attached is the iCMS 2021 e-Proceedings.\
+We are committed to include camera-ready paper submitted to iCMS2025 in our e-Proceeding book to ensure all authors can benefit from them. Attached is the iCMS 2025 e-Proceedings.\
 
-Title       : e-Proceedings of the 5th International Conference on Computing, Mathematics and Statistics (iCMS 2025)\
+Title       : e-Proceedings of the 6th International Conference on Computing, Mathematics and Statistics (iCMS 2025)\
 Publisher   : Universiti Teknologi MARA Kedah Branch\
 e-ISBN      : 978-967-xxxx-xx-x\
 

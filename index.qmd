@@ -19,7 +19,7 @@ format: html
 
 <!-- The organising committee had also successfully hosted pre-conference workshop namely, “Visualization of Tidy Data” that was conducted by international reputable expert, Dr. Matthias Templ from Statistics Austria and Vienna University of technology and received positive feedback from the participants. -->
 
-<!-- iCMS2021 will be our fifth international conference. The theme of this coming conference is “Driving Research Toward Excellence”. Given the rapidity with which computing, mathematics, and statistics are advancing in all areas of life, we strongly believed that this upcoming conference is the best platform available for researchers to come together presenting their practical solutions for a better tomorrow as well as become a catalyst for stimulating ideas to further enhance future research and innovations.\ -->
+<!-- iCMS2021 will be our sixth international conference. The theme of this coming conference is “Driving Research Toward Excellence”. Given the rapidity with which computing, mathematics, and statistics are advancing in all areas of life, we strongly believed that this upcoming conference is the best platform available for researchers to come together presenting their practical solutions for a better tomorrow as well as become a catalyst for stimulating ideas to further enhance future research and innovations.\ -->
 
 The International Conference on Computing, Statistics, and Mathematics (iCMS) has been a biennial gathering since its inception in 2013, and we are thrilled to announce the upcoming iCMS 2025, marking our sixth conference after the successful iCMS 2021. Organized by College of Computing, Informatics and Mathematics at Universiti Teknologi MARA (UiTM) Kedah, Malaysia, iCMS continues to be a key forum focusing on the disciplines of computing, mathematics, and statistics, exploring their applications and advancements.\
 
@@ -31,7 +31,7 @@ In our previous conference, iCMS 2021, we celebrated a significant milestone and
 
 Additionally, Pre-Conference Workshop 2, titled "R Markdown in Academic Writing" was led by Mr. Kamarul Ariffin Mansor from Universiti Teknologi MARA (UiTM) Kedah. Mr. Kamarul Ariffin Mansor guided participants through the effective use of R Markdown in academic writing, offering practical tips for enhancing the presentation and communication of research findings.\
 
-As we gear up for iCMS 2025, our fifth international conference, we are excited to reveal the theme for this edition, "Accelerating Innovation: Navigating the Road to Research Excellence". Building on the momentum of the previous conference's theme, "Driving Research Toward Excellence," we aim to further explore the rapid advancements in computing, mathematics, and statistics across various facets of life. We firmly believe that iCMS 2025 will provide an unparalleled platform for researchers to showcase their practical solutions, fostering collaboration, and acting as a catalyst for stimulating innovative ideas that will shape the future of research and advancements. Join us in this journey towards excellence at iCMS 2025!\
+As we gear up for iCMS 2025, our sixth international conference, we are excited to reveal the theme for this edition, "Accelerating Innovation: Navigating the Road to Research Excellence". Building on the momentum of the previous conference's theme, "Driving Research Toward Excellence," we aim to further explore the rapid advancements in computing, mathematics, and statistics across various facets of life. We firmly believe that iCMS 2025 will provide an unparalleled platform for researchers to showcase their practical solutions, fostering collaboration, and acting as a catalyst for stimulating innovative ideas that will shape the future of research and advancements. Join us in this journey towards excellence at iCMS 2025!\
 
 <center>
 ::: {.columns}
@@ -213,11 +213,11 @@ Computational Science\
 
 ## PUBLICATION\
 
-We are committed to include camera-ready paper submitted to iCMS2021 in our e-Proceeding book to ensure all authors can benefit from them. Attached is the iCMS 2021 e-Proceedings.\
+We are committed to include camera-ready paper submitted to iCMS2025 in our e-Proceeding book to ensure all authors can benefit from them. Attached is the iCMS 2025 e-Proceedings.\
 
-Title       : e-Proceedings of the 5th International Conference on Computing, Mathematics and Statistics (iCMS 2025)\
+Title       : e-Proceedings of the 6th International Conference on Computing, Mathematics and Statistics (iCMS 2025)\
 Publisher   : Universiti Teknologi MARA Kedah Branch\
-e-ISBN      : 978-967-xxxx-xx-x\
+e-ISBN      : 978-xxx-xxxx-xx-x\
 
 Selected papers will be considered for publication in the selected journals as listed below.\
 
