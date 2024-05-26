@@ -550,19 +550,19 @@ Suhartono\
 ## CONTACT US\
 
 +-----------------:+----------------------------------------------------------+
-| **E mail:**      | [kdh.icms2025@gmail.com](mailto:kdh.icms2025@gmail.com)     |
+| **E-mail:**      | [kdh.icms2025@gmail.com](mailto:kdh.icms2025@gmail.com)  |
 +------------------+----------------------------------------------------------+
-| **Phone:**       | +604-456 xxxx (xxxx) (Publication)     |
+| **Phone:**       | +604-456 xxxx (xxxx) (Publication)                       |
 |                  |                                                          |
-|                  | +604-456 xxxx (xxxx) (General Inquiry) |
+|                  | +604-456 xxxx (xxxx) (General Inquiry)                   |
 |                  |                                                          |
-|                  | +604-456 xxxx (xxxx) (Payment)      |
+|                  | +604-456 xxxx (xxxx) (Payment)                           |
 |                  |                                                          |
-|                  | +604-456 xxxx (xxxx) (Workshop)                 |
+|                  | +604-456 xxxx (xxxx) (Workshop)                          |
 +------------------+----------------------------------------------------------+
 | **Address:**     | Secretariat iCMS2025                                     |
 |                  |                                                          |
-|                  | Faculty of Computer & Mathematical Sciences              |
+|                  | College of Computing,Informatics and Mathematics,        |
 |                  |                                                          |
 |                  | Universiti Teknologi MARA Kedah Branch                   |
 |                  |                                                          |
