@@ -39,9 +39,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
-<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -248,18 +245,10 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 <section id="registration-submission" class="level2">
-<h2 class="anchored" data-anchor-id="registration-submission">REGISTRATION &amp; SUBMISSION<br>
-</h2>
-<p>Authors are required to submit abstracts, full papers, and camera-ready papers separately using the confBay conference management system. Kindly click on the confBay icon below to go to the submission page. You have to create a confBay account first before you are allowed to log in to the submission page.<br>
-</p>
-<p>To register for conference, please click the icon below:<br>
-</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/iconfbay.png" class="img-fluid figure-img"></p>
-<figcaption>Conference Bay</figcaption>
-</figure>
-</div>
+<h2 class="anchored" data-anchor-id="registration-submission">REGISTRATION &amp; SUBMISSION</h2>
+<p>Authors are required to submit abstracts, full papers, and camera-ready papers separately using the confBay conference management system. Kindly click on the confBay icon below to go to the submission page. You have to create a confBay account first before you are allowed to log in to the submission page.</p>
+<p>To register for the conference, please click :</p>
+<p><a href="http://submit.confbay.com/conf/icms2025" target="_blank"><img src="images/iconfbay.png" class="img-fluid" alt="Conference Bay"></a>.</p>
 <hr>
 </section>
 <section id="download" class="level2">
@@ -296,9 +285,6 @@ document.addEventListener("DOMContentLoaded", function() {
 </div>
 
 
-<div class="hidden" aria-hidden="true">
-<span class="glightbox-desc lightbox-desc-1">Conference Bay</span>
-</div>
 </section>
 </section>
 
@@ -751,31 +737,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","loop":false,"selector":".lightbox","openEffect":"zoom","descPosition":"bottom"});
-window.onload = () => {
-  lightboxQuarto.on('slide_before_load', (data) => {
-    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-    const href = trigger.getAttribute('href');
-    if (href !== null) {
-      const imgEl = window.document.querySelector(`a[href="${href}"] img`);
-      if (imgEl !== null) {
-        const srcAttr = imgEl.getAttribute("src");
-        if (srcAttr && srcAttr.startsWith("data:")) {
-          slideConfig.href = srcAttr;
-        }
-      }
-    } 
-  });
-
-  lightboxQuarto.on('slide_after_load', (data) => {
-    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-    if (window.Quarto?.typesetMath) {
-      window.Quarto.typesetMath(slideNode);
-    }
-  });
-
-};
-          </script>
 
 
 

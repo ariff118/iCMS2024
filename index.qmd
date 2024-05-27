@@ -291,13 +291,13 @@ Author will need to follow the template provided by the selected journal.\
 
 ---
 
-## REGISTRATION & SUBMISSION\
+## REGISTRATION & SUBMISSION
 
-Authors are required to submit abstracts, full papers, and camera-ready papers separately using the confBay conference management system. Kindly click on the confBay icon below to go to the submission page. You have to create a confBay account first before you are allowed to log in to the submission page.\
+Authors are required to submit abstracts, full papers, and camera-ready papers separately using the confBay conference management system. Kindly click on the confBay icon below to go to the submission page. You have to create a confBay account first before you are allowed to log in to the submission page.
 
-To register for conference, please click the icon below:\
+To register for the conference, please click : 
 
-[![Conference Bay](images/iconfbay.png)](https://submit.confbay.com/){target="_blank"}
+[![Conference Bay](images/iconfbay.png)](http://submit.confbay.com/conf/icms2025){target="_blank"}.
 
 ---
 
