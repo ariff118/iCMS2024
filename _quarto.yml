@@ -4,8 +4,9 @@ project:
 website:
   navbar: 
     left:
-      - text: "🏠 Home iCMS 2025"
+      - text: "<img src='images/icms2025.png' alt='iCMS 2025 Logo' style='height:50px; vertical-align:middle;'><span style='color: black;'>iCMS 2025</span>"
         file: index.qmd
+
     right:
       - text: "About iCMS 2025"
         file: about.qmd
@@ -28,16 +29,16 @@ website:
   sidebar:
     style: "floating"
     search: false
-    pinned: false
+    pinned: false 
     contents:
-      - section: "Walk through the websites"
+      - section: "<span style='color: black;'>Walk through the websites</span>"
         contents:
-          - text: "🏠 Home iCMS 2025"
+          - text: "<img src='images/icms2025.png' alt='iCMS 2025 Logo' style='height:20px;'><span style='color: black;'>iCMS 2025</span>"
             href: index.qmd
-          - text: "iCMS 2021"
+          - text: "<span style='color: black;'>iCMS 2021</span>"
             href: https://uitmicms.wixsite.com/icms2021
             target: _blank
-          - text: "iCMS 2019"
+          - text: "<span style='color: black;'>iCMS 2019</span>"
             href: https://uitmicms.wixsite.com/icms2019
             target: _blank
           # - text: "Call for Papers"
