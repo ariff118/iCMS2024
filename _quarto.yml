@@ -8,30 +8,30 @@ website:
         file: index.qmd
 
     right:
-      - text: "About iCMS 2025"
+      - text: "<span style='color: black;'>About iCMS 2025</span>"
         file: about.qmd
-      - text: "Call for paper"
+      - text: "<span style='color: black;'>Call for paper</span>"
         menu:
-          - text: "Important Dates"
+          - text: "<span style='color: black;'>Important Dates</span>"
             file: call_for_papers.qmd
           - text: "Tracks"
             file: tracks.qmd
-          - text: "Publications Opportunity"
+          - text: "<span style='color: black;'>Publications Opportunity</span>"
             file: publications.qmd
-      - text: "Registration & Submission"
+      - text: "<span style='color: black;'>Registration & Submission</span>"
         file: register.qmd
-      - text: "Fees & Payment"
+      - text: "<span style='color: black;'>Fees & Payment</span>"
         file: fees.qmd
-      - text: "Our Teams"
+      - text: "<span style='color: black;'>Our Teams</span>"
         file: our_teams.qmd
-      - text: "Contact"
+      - text: "<span style='color: black;'>Contact</span>"
         file: contacts.qmd
   sidebar:
     style: "floating"
     search: false
     pinned: false 
     contents:
-      - section: "<span style='color: black;'>Walk through the websites</span>"
+      - section: "<span style='color: black;'>**Walk through the websites**</span>"
         contents:
           - text: "<img src='images/icms2025.png' alt='iCMS 2025 Logo' style='height:20px;'><span style='color: black;'>iCMS 2025</span>"
             href: index.qmd
