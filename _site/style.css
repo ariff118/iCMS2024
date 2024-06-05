@@ -37,8 +37,8 @@ a:active {
 .bslib-value-box {
   border-radius: 8px;
   -bslib-value-box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 50%);
-      box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 50%);
-      border-width: 0 0.5rem 1rem rgb(0 0 0 / 90%);
+  box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 50%);
+  border-width: 0 0.5rem 1rem rgb(0 0 0 / 90%);
 }
 
 .bslib-card {
@@ -83,7 +83,7 @@ h3 {
 
 .rcode {
   margin: 1em 0;
-  border: 2px solid gray;
+  border: 2px solid grey;
   border-left: 10px solid #41475E; 
   border-radius: 10px;
 }
@@ -117,5 +117,27 @@ h3 {
 }
 
 .figure-caption {
-    display: none;
+  display: none;
+}
+
+/* Navbar customization */
+.navbar {
+  background-color: #4B4B4B; 
+  border-color: #4B4B4B; /* To ensure the border matches the background */
+}
+
+.navbar a {
+  color: white !important; /* Ensuring the text color contrasts well with the dark background */
+}
+
+.navbar a:hover {
+  color: #D3D3D3 !important; /* Adding a hover effect for better UX */
+}
+
+/* Title block banner customization */
+.title-block-banner {
+  background-image: url("images/sp.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 300px; /* Adjust the height as needed */
 }
