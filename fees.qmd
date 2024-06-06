@@ -23,38 +23,11 @@ RM100/USD30\
 
 ### [**Mode of Payments**]{style="color:green;"}\
 
-#### For Local Participants/Presenters\
+#### For Local and International Participants/Presenters\
 
 To pay for the conference, please click [here](https://uitmpay.uitm.edu.my/otherservices/products/AAK1/02/3363){target="_blank"}.
 
-
-#### For International Participants/Presenters\
-
-Telegraphic Transfers/Electronic Transfers ONLY (including bank charges).
-
 [All cheques must be made payable to “Bendahari UiTM Kedah”.]{style="color:purple;"}\
-
-#### For International Participants/Presenters\
-
-+--------------------------------------------:+------------------------------------------------+
-| **Bank Name:**                              | Bank Islam Malaysia Bhd (Sungai Petani Branch) |
-+---------------------------------------------+------------------------------------------------+
-| **Bank Address:**                           | No.71&72 Lorong Lagenda 1                      |
-|                                             |                                                |
-|                                             | Lagenda Heights                                |
-|                                             |                                                |
-|                                             | 08000 Sungai Petani, Kedah, MALAYSIA           |
-+---------------------------------------------+------------------------------------------------+
-| **Bank Account Number:**                    | 02020010080212                                 |
-+---------------------------------------------+------------------------------------------------+
-| **Bank Account Name :**                     | Tetuan UiTM Cawangan Kedah                     |
-+---------------------------------------------+------------------------------------------------+
-| **Pay to:**                                 | Bendahari UiTM Kedah                           |
-+---------------------------------------------+------------------------------------------------+
-| **Swift Code:**                             | BIMBMYKL                                       |
-+---------------------------------------------+------------------------------------------------+
-| **GST Registration Number for UiTM Kedah:** | 001418756096                                   |
-+---------------------------------------------+------------------------------------------------+
 
 Please send the bank transaction slip or receipt as proof of payment by uploading to\
 
