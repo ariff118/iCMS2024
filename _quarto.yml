@@ -7,6 +7,7 @@ website:
       - text: "<img src='images/icms2025.png' alt='iCMS 2025 Logo' style='height:50px; vertical-align:middle;'><span style='color: white;'><strong>iCMS 2025</span>"
         file: index.qmd
         
+        
 
     right:
       - text: "<span style='color: white;'><strong>About iCMS 2025</strong></span>
@@ -20,13 +21,19 @@ website:
             file: tracks.qmd
           - text: "<span style='color: black;'>Publications Opportunity</span>"
             file: publications.qmd
+      - text: "<span style='color: white;'><strong>Programme</span>"
+        menu:
+          - text: "<span style='color: black;'>workshops</span>"
+            file: workshops.qmd
+          - text: "<span style='color: black;'>Programme schedule</span>"
+            file: ProgramSchedule.qmd
       - text: "<span style='color: white;'><strong>Registration & Submission</span>"
         file: register.qmd
       - text: "<span style='color: white;'><strong>Fees & Payment</span>"
         file: fees.qmd
       - text: "<span style='color: white;'><strong>Our Teams</span>"
         file: our_teams.qmd
-      - text: "<span style='color: white;'><strong>Contact</span>"
+      - text: "<span style='color: white;'><strong>Contact</span>" 
         file: contacts.qmd
   sidebar:
     style: "floating"
