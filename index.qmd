@@ -241,7 +241,7 @@ Author will need to follow the template provided by the selected journal.\
 ::: {.column width="24%"}
 <center>
    **Voice of Academia (VoA)**\
-![Voice of Academia (VoA)](images/VOA.jpeg)
+![Voice of Academia (VoA)](images/voa.png)
 
 </center>
 :::
