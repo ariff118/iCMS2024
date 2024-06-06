@@ -24,6 +24,42 @@ Selected authors will be invited to prepare an extended version of their paper (
 
 Author will need to follow the template provided by the selected journal.\
 
+**Tamplete**\
+
+::: {.column width="24%"}
+<center>
+ **Journal of Applied Mathematics and Computational Intelligence (AMCI)**\ ![Journal of Applied Mathematics and Computational Intelligence (AMCI](images/AMCI.jpeg)
+
+</center>
+:::
+  
+::: {.column width="1%"}
+
+:::
+  
+::: {.column width="24%"}
+<center>
+   **Voice of Academia (VoA)**\
+![Voice of Academia (VoA)](images/VOA.jpeg)
+
+</center>
+:::
+  
+::: {.column width="1%"}
+
+:::
+::: {.column width="24%"}
+<center>
+  **Journal of Creative Practices in Language Learning and Teaching (CPLT)**\
+![Journal of Creative Practices in Language Learning and Teaching (CPLT)](images/CPLT.jpg)
+
+</center>
+:::
+  
+::: {.column width="1%"}
+
+:::
+
 **Previous Publications**\
 
 ::: {.columns}
