@@ -91,7 +91,7 @@ format:
     grid:
       sidebar-width: 350px
     include-in-header: 
-      - progress-bar.html
+      - favicon.html
     lightbox: auto
     page-layout: article
   

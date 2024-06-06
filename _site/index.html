@@ -76,45 +76,14 @@ ul.task-list li input[type="checkbox"] {
 background-size: cover;
       }
 </style>
-</head><body class="nav-sidebar floating nav-fixed fullcontent"><div id="progress-bar" style="width: 0%; height:2px; background-color: rgb(89 127 235);; position: fixed; top: 0px; z-index: 2000;"></div>
+<link rel="icon" type="image/png" href="images/icms2025.png">
 
-
-
-<script id="progressbar" type="text/javascript">
-
-
-
-document.addEventListener("DOMContentLoaded", function() {
-
-
-
-    const bar = document.querySelector('#progress-bar');
-
-    const post = document.querySelector('#quarto-content');
-
-    const html = document.documentElement;
-
-    
-
-    const height = post.scrollHeight + post.offsetTop;
-
-    
-
-    window.addEventListener('scroll', () => {
-
-        bar.style.width = (html.scrollTop / (height- html.clientHeight)) * 100 + '%';
-
-    });
-
-});
-
-</script>
 
 
 <link rel="stylesheet" href="style.css">
+</head>
 
-
-
+<body class="nav-sidebar floating nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
@@ -1266,7 +1235,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"selector":".lightbox","loop":false,"closeEffect":"zoom","openEffect":"zoom","descPosition":"bottom"});
+<script>var lightboxQuarto = GLightbox({"loop":false,"descPosition":"bottom","selector":".lightbox","openEffect":"zoom","closeEffect":"zoom"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;
