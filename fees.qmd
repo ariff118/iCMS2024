@@ -7,7 +7,7 @@ title: "Fees & Payment"
 <center>
 ### [**Conference Fee**]{style="color:green;"}
 +:----------------------------------------:+:-----------------------:+
-| Early Bird                               | RM 550                 |
+| Early Bird                               | RM 550                  |
 |                                          |                         |
 | Normal                                   | RM 600                  |
 |                                          |                         |
@@ -15,6 +15,7 @@ title: "Fees & Payment"
 +------------------------------------------+-------------------------+
 
 ### [**Workshop Fee**]{style="color:green;"}\
+
 **To be Update**\
 \
 \

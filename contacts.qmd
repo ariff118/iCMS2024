@@ -5,7 +5,7 @@ title: "Contact Us:"
 ## CONTACT US\
 
 +-----------------:+----------------------------------------------------------+
-| **E mail:**      | [kdh.icms2025@gmail.com](mailto:kdh.icms2025@gmail.com)     |
+| **E mail:**      | [icms2025@uitm.edu.my](mailto:icms2025@uitm.edu.my)     |
 +------------------+----------------------------------------------------------+
 | **Phone:**       | +604-456 xxxx (xxxx) (Publication)     |
 |                  |                                                          |
