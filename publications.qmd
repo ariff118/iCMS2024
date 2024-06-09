@@ -4,13 +4,9 @@ title: "Publication"
   
 ## PUBLICATION\
 
-We are committed to include camera-ready paper submitted to iCMS2025 in our e-Proceeding book to ensure all authors can benefit from them. Attached is the iCMS 2025 e-Proceedings.\
+We are committed to include camera-ready paper submitted to iCMS2025 in our e-Proceeding book to ensure all authors can benefit from them. \
 
-Title       : e-Proceedings of the 6th International Conference on Computing, Mathematics and Statistics (iCMS 2025)\
-Publisher   : Universiti Teknologi MARA Kedah Branch\
-e-ISBN      : 978-967-xxxx-xx-x\
-
-Selected papers will be considered for publication in the selected journals as listed below.\
+**Selected papers will be considered for publication in the selected journals as listed below.**\
 
 **Publication Opportunities:**\
 
@@ -26,39 +22,25 @@ Author will need to follow the template provided by the selected journal.\
 
 **Tamplete**\
 
-::: {.column width="24%"}
-<center>
- **Journal of Applied Mathematics and Computational Intelligence (AMCI)**\ ![Journal of Applied Mathematics and Computational Intelligence (AMCI](images/AMCI.jpeg)
+---
 
-</center>
-:::
-  
-::: {.column width="1%"}
+ **- Voice of Academia (VoA)**\
+![Voice of Academia (VoA)](images/voa.png){width=300px}
 
-:::
-  
-::: {.column width="24%"}
-<center>
-   **Voice of Academia (VoA)**\
-![Voice of Academia (VoA)](images/voa.png)
+---
 
-</center>
-:::
-  
-::: {.column width="1%"}
+**- Journal of Applied Mathematics and**\
+**Computational Intelligence (AMCI)**\
+![Journal of Applied Mathematics and Computational Intelligence (AMCI)](images/AMCI.jpeg){width=305px}
 
-:::
-::: {.column width="24%"}
-<center>
-  **Journal of Creative Practices in Language Learning and Teaching (CPLT)**\
-![Journal of Creative Practices in Language Learning and Teaching (CPLT)](images/CPLT.jpg)
+---
 
-</center>
-:::
-  
-::: {.column width="1%"}
+**- Journal of Creative Practices in Language **\
+**Learning and Teaching (CPLT)**\
+![Journal of Creative Practices in Language Learning and Teaching (CPLT)](images/CPLT.jpg){width=305px}
 
-:::
+---
+
 
 **Previous Publications**\
 

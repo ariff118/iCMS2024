@@ -7,17 +7,15 @@ title: "Fees & Payment"
 <center>
 ### [**Conference Fee**]{style="color:green;"}
 +:----------------------------------------:+:-----------------------:+
-| Early Bird                               | RM350/USD90             |
+| Early Bird                               | RM 550                 |
 |                                          |                         |
-| Normal                                   | RM450/USD115            |
+| Normal                                   | RM 600                  |
 |                                          |                         |
-| Student/UiTM Staff                       | RM350/USD90             |
-|                                          |                         |
-| Group of 3                               | RM330(each)/USD85(each) |
+| Student/UiTM Staff                       | RM 500                  |
 +------------------------------------------+-------------------------+
 
 ### [**Workshop Fee**]{style="color:green;"}\
-RM100/USD30\
+**To be Update**\
 \
 \
 
