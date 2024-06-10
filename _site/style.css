@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lato&display=swap');
 
+body {
+  margin: 0;
+  padding: 0;
+  background-color: white; /* Fallback background color */
+}
+
+/* General styles */
 .p {
   font-family: 'Lato', sans-serif;
 }
@@ -69,15 +76,14 @@ a:active {
   white-space: normal; 
 }
 
-/*-- scss:rules --*/
-
+/* SCSS rules */
 h2 {
-  font-family: Abril Fatface;
+  font-family: 'Abril Fatface', serif;
   color: #78384F !important;
 }
 
 h3 {
-  font-family: Abril Fatface;
+  font-family: 'Abril Fatface', serif;
   color: #1C2540 !important;
 }
 
@@ -136,8 +142,16 @@ h3 {
 
 /* Title block banner customization */
 .title-block-banner {
-  background-image: url("images/sp.jpg");
+  background-image: url("images/bb.jpg");
   background-size: cover;
   background-position: center;
   height: 300px; /* Adjust the height as needed */
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .title-block-banner {
+    background-size: contain;
+    height: auto; /* Adjust height for mobile devices */
+  }
 }
