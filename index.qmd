@@ -6,12 +6,8 @@ filters:
 execute:
   echo: false
   eval: true
-format:
-  html:
-    css: styles.css
-    include-in-header: head.html
+format: html
 ---
-
 
 ## PUBLICATION
 
