@@ -66,12 +66,12 @@ a:active {
   display: block;
 }
 
-.leaflet-tooltip{
+.leaflet-tooltip {
   width: 150px; 
   white-space: normal; 
 }
 
-.leaflet-tooltip{
+.leaflet-tooltip {
   width: 200px; 
   white-space: normal; 
 }
@@ -145,13 +145,16 @@ h3 {
   background-image: url("images/bb.jpg");
   background-size: cover;
   background-position: center;
-  height: 300px; /* Adjust the height as needed */
+  height: 100vh; /* Adjust the height as needed */
+  width: 100vw;
 }
 
 /* Responsive adjustments */
 @media (max-width: 768px) {
   .title-block-banner {
-    background-size: contain;
+    background-size: cover; /* Ensure the image covers the entire background */
+    background-position: center; /* Center the image */
     height: auto; /* Adjust height for mobile devices */
+    width: 100vw;
   }
 }

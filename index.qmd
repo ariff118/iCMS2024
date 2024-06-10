@@ -8,11 +8,12 @@ execute:
   eval: true
 format:
   html:
-    css: style.css
+    css: styles.css
+    include-in-header: head.html
 ---
 
 
-## PUBLICATION..
+## PUBLICATION
 
 We are committed to including camera-ready paper submitted to iCMS2025 in our e-Proceeding book to ensure all authors can benefit from them.
 
