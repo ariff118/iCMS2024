@@ -5,15 +5,15 @@ title: "Contact Us:"
 ## CONTACT US\
 
 +-----------------:+----------------------------------------------------------+
-| **E mail:**      | [icms2025@uitm.edu.my](mailto:icms2025@uitm.edu.my)     |
+| **E mail:**      | [icms2025@uitm.edu.my](mailto:icms2025@uitm.edu.my)     
 +------------------+----------------------------------------------------------+
-| **Phone:**       | +604-456 xxxx (xxxx) (Publication)     |
+| **Phone:**       | +604-456 xxxx (xxxx) (Publication)     
 |                  |                                                          |
-|                  | +604-456 xxxx (xxxx) (General Inquiry) |
+|                  | +604-456 xxxx (xxxx) (General Inquiry) 
 |                  |                                                          |
-|                  | +604-456 xxxx (xxxx) (Payment)      |
+|                  | +604-456 xxxx (xxxx) (Payment)      
 |                  |                                                          |
-|                  | +604-456 xxxx (xxxx) (Workshop)                 |
+|                  | +604-456 xxxx (xxxx) (Workshop)                 
 +------------------+----------------------------------------------------------+
 | **Address:**     | Secretariat iCMS2025                                     |
 |                  |                                                          |
@@ -25,7 +25,7 @@ title: "Contact Us:"
 |                  |                                                          |
 |                  | 08400 Merbok                                             |
 |                  |                                                          |
-|                  | Kedah Darul Aman, MALAYSIA                            |
+|                  | Kedah Darul Aman, MALAYSIA                            
 +------------------+----------------------------------------------------------+
 
 **DISCLAIMER**
