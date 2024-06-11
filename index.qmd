@@ -7,9 +7,10 @@ execute:
   echo: false
   eval: true
 format: html
+
 ---
 
-## PUBLICATION
+## PUBLICATION..
 
 We are committed to including camera-ready paper submitted to iCMS2025 in our e-Proceeding book to ensure all authors can benefit from them.
 
