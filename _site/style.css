@@ -136,18 +136,8 @@ h3 {
 
 /* Title block banner customization */
 .title-block-banner {
-  position: relative;
   background-image: url("images/bb.jpg");
-  background-repeat: no-repeat;
-  background-size: cover; /* This ensures the image covers the entire container */
-  background-position: center; /* Centers the background image */
-  height: 100vh; /* Ensures the banner takes up the full viewport height */
+  background-size: cover;
+  background-position: center;
+  height: 300px; /* Adjust the height as needed */
 }
-@media (max-width: 768px) {
-  .title-block-banner {
-    background-size: cover; /* Ensures the image scales correctly on smaller screens */
-    height: 100vh; /* Ensures the banner still takes up the full viewport height */
-  }
-}
-
-
