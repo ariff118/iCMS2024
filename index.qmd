@@ -26,8 +26,9 @@ Selected papers will be considered for publication in the selected journals as l
 Selected authors will be invited to prepare an extended version of their paper (more than 30% changes), which will be published after editorial board & evaluators approval and additional cost may apply.
 
 Author will need to follow the template provided by the selected journal.\
-
+<center>
 **Tamplete**\
+</center>
 
 ---
 
@@ -46,9 +47,11 @@ Author will need to follow the template provided by the selected journal.\
 **Learning and Teaching (CPLT)**\
 ![Journal of Creative Practices in Language Learning and Teaching (CPLT)](images/CPLT.jpg){width=305px}
 
----
+--- 
 
-**Previous Publications**
+<center>
+**Previous Publications**\
+</center>
 
 
 ::: {.column width="24%"}
