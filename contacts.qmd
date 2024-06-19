@@ -3,9 +3,8 @@ title: "Contact Us:"
 ---
 
 ## CONTACT US\
-
 +-----------------:+----------------------------------------------------------+
-| **E mail:**      | [icms2025@uitm.edu.my](mailto:icms2025@uitm.edu.my)     |
+| **E mail:**      | [icms2025@uitm.edu.my](mailto:icms2025@uitm.edu.my)      |
 +------------------+----------------------------------------------------------+
 | **Phone:**       | +604-456 xxxx (xxxx) (Publication)     
 |                  |                                                          |

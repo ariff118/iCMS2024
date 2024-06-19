@@ -41,25 +41,23 @@ Author will need to follow the template provided by the selected journal.\
 
 ---
 
-
+<center>
 **Previous Publications**\
+</center>
 
-::: {.columns}
 
 ::: {.column width="24%"}
 <center>
-  **iCMS 2021**\
+**iCMS 2021**\
 [![iCMS 2021](images/pubs/icms2021.png)](https://36f92a07-7496-48b7-b8c5-d4b3a7a690bd.filesusr.com/ugd/9483e7_fa3419ecd9a748208fc6b7e8d5421225.pdf){target="_blank"}
 </center>
 :::
-  
-::: {.column width="1%"}
 
-:::
-  
-::: {.column width="25%"}
+---
+
+::: {.column width="24%"}
 <center>
-  **iCMS 2019**\
+**iCMS 2019**\
 [![Mathematics and Statistics](images/pubs/icms2019_1.gif)](http://www.hrpub.org/journals/jour_info.php?id=34){target="_blank"}\
 
 [![Universal Journal of Electrical and Electronic Engineering](images/pubs/icms2019_2.gif)](http://www.hrpub.org/journals/jour_archive.php?id=49){target="_blank"}\
@@ -69,29 +67,49 @@ Author will need to follow the template provided by the selected journal.\
 [![Civil Engineering and Architecture](images/pubs/icms2019_4.gif)](http://www.hrpub.org/journals/jour_archive.php?id=48&iid=1431){target="_blank"}\
 
 [![Universal Journal of Educational Research](images/pubs/icms2019_5.gif)](http://www.hrpub.org/journals/jour_info.php?id=95){target="_blank"}\
-
-[![Austrian Journal of Statistics](images/pubs/icms2019_6.gif)](https://www.ajs.or.at/index.php/ajs){target="_blank"}\
 </center>
 :::
-  
-::: {.column width="25%"}
+::: {.column width="24%"}
+<center>
+**iCMS 2019**\
+[![Austrian Journal ofStatistics](images/pubs/icms2019_6.gif)](https://www.ajs.or.at/index.php/ajs){target="_blank"}\
+</center>
+:::
+
+---
+
+::: {.column width="24%"}
 <center>
 **iCMS 2017**\
-[![](images/pubs/icms2017_1.png)](https://www.springer.com/gp/book/9789811372780){target="_blank"}\
-
-![](images/pubs/icms2017_2.png)\
-
-![](images/pubs/icms2017_3.png)\
+[![iCMS 2017](images/pubs/icms2017_1.png)](https://www.springer.com/gp/book/9789811372780){target="_blank"}
 </center>
 :::
-  
-::: {.column width="25%"}
+::: {.column width="24%"}
+<center>
+**iCMS 2017**\
+![iCMS 2017](images/pubs/icms2017_2.png)
+</center>
+:::
+::: {.column width="24%"}
+<center>
+**iCMS 2017**\
+![iCMS 2017](images/pubs/icms2017_3.png)
+</center>
+:::
+
+---
+
+::: {.column width="24%"}
 <center>
 **iCMS 2015**\
-![](images/pubs/icms2015_1.png)\
-
-![](images/pubs/icms2015_2.png)\
+![iCMS 2015](images/pubs/icms2015_2.png)
 </center>
 :::
-  
+::: {.column width="24%"}
+<center>
+**iCMS 2015**\
+![iCMS 2015](images/pubs/icms2015_1.png)
+</center>
 :::
+
+---
