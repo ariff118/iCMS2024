@@ -135,9 +135,15 @@ h3 {
 }
 
 /* Title block banner customization */
-.title-block-banner {
-  background-image: url("images/bb.jpg");
-  background-size: cover;
-  background-position: center;
-  height: 300px; /* Adjust the height as needed */
+.background {
+    background-image: url(images/bb.jpg) ;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: 100% 100%
+}
+@media only screen and (max-width: 600px)  {
+    background{
+        background-image: url(images/bb.jpg);
+    }
 }
