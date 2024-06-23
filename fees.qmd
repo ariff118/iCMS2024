@@ -32,7 +32,7 @@ To pay for the conference, please click [here](https://uitmpay.uitm.edu.my/other
 
 Please send the bank transaction slip or receipt as proof of payment by uploading to\
 
-![](images/iconfbay.png){width=150px target="_blank"}
+[![Conference Bay](images/iconfbay.png)](http://submit.confbay.com/conf/icms2025){target="_blank"}
 *All monies paid are non-refunable
 </center>
 
