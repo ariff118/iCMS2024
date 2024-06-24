@@ -10,45 +10,36 @@ format: html
 
 ---
 
-## PUBLICATION
+## PUBLICATION\
 
-We are committed to including camera-ready paper submitted to iCMS2025 in our e-Proceeding book to ensure all authors can benefit from them.
+We are committed to include camera-ready paper submitted to iCMS2025 in our e-Proceeding book to ensure all authors can benefit from them. \
 
-Selected papers will be considered for publication in the selected journals as listed below.
+**Selected papers will be considered for publication in the selected journals as listed below.**\
 
-**Publication Opportunities:**
+**Publication Opportunities:**\
 
-1. Voice of Academia (VoA)\
-2. Austrian Journal of Statistics \
-3. Romanian Statistical Review\
+1. Austrian Journal of Statistics\ 
+2. Romanian Statistical Review \
+3. Voice of Academia (VoA)\ 
 4. Journal of Applied Mathematics and Computational Intelligence (AMCI)\
 5. Journal of Creative Practices in Language Learning and Teaching (CPLT)\
 
-Selected authors will be invited to prepare an extended version of their paper (more than 30% changes), which will be published after editorial board & evaluators approval and additional cost may apply.
+Selected authors will be invited to prepare an extended version of their paper (more than 30% changes), which will be published after editorial board & evaluators approval and additional cost may apply.\
 
 Author will need to follow the template provided by the selected journal.\
-<center>
-**Tamplete**\
-</center>
 
----
 
- **Voice of Academia (VoA)**\
-![Voice of Academia (VoA)](images/voa.png){width=300px}
+ **- Voice of Academia (VoA)**\
 
----
 
-**Journal of Applied Mathematics and**\
+**- Journal of Applied Mathematics and**\
 **Computational Intelligence (AMCI)**\
-![Journal of Applied Mathematics and Computational Intelligence (AMCI)](images/AMCI.jpeg){width=305px}
+
+
+**- Journal of Creative Practices in Language **\
+**Learning and Teaching (CPLT)**\
 
 ---
-
-**Journal of Creative Practices in Language **\
-**Learning and Teaching (CPLT)**\
-![Journal of Creative Practices in Language Learning and Teaching (CPLT)](images/CPLT.jpg){width=305px}
-
---- 
 
 <center>
 **Previous Publications**\
