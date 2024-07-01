@@ -1,19 +1,14 @@
 project:
   type: website
-
 website:
   navbar: 
     left:
-      - text: "<img src='images/icms2025.png' alt='iCMS 2025 Logo' style='height:50px; vertical-align:middle;'><span style='color: white;'><strong>iCMS 2025</span>"
+      - text: "<img src='images/icms2025.png' alt='iCMS 2025 Logo' style='height:50px; vertical-align:middle;'></span>"
         file: index.qmd
-        
-        
-
     right:
-      - text: "<span style='color: white;'><strong>About iCMS 2025</strong></span>
-"
+      - text: "<span style='color:white;'><strong>About iCMS 2025</strong></span>"
         file: about.qmd
-      - text: "<span style='color: white;'><strong>Call for paper</span>"
+      - text: "<span style='color:white;'><strong>Call for paper</span>"
         menu:
           - text: "<span style='color: black;'>Important Dates</span>"
             file: call_for_papers.qmd

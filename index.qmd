@@ -1,12 +1,7 @@
----
-title: "iCMS 2025"
-title-block-banner: "images/bb.jpg"
-filters:
-   - lightbox
-execute:
-  echo: false
-  eval: true
-format: html
+::: {.column-screen}
+![A full screen image](images/ll.jpg)
+
+:::
 
 ---
 
@@ -27,7 +22,6 @@ Selected papers will be considered for publication in the selected journals as l
 Selected authors will be invited to prepare an extended version of their paper (more than 30% changes), which will be published after editorial board & evaluators approval and additional cost may apply.
 
 Author will need to follow the template provided by the selected journal.\
-
 ---
 
  **Voice of Academia (VoA)**\
