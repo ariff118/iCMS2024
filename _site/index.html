@@ -166,13 +166,8 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="page-columns page-full">
-<div class="quarto-figure quarto-figure-center page-columns page-full">
-<figure class="figure page-columns page-full">
-<p class="page-columns page-full"><a href="images/ll.jpg" class="lightbox page-columns page-full" data-gallery="quarto-lightbox-gallery-1" data-glightbox="description: .lightbox-desc-1" title="A full screen image"><img src="images/ll.jpg" class="img-fluid figure-img column-screen" alt="A full screen image"></a></p>
-<figcaption>A full screen image</figcaption>
-</figure>
-</div>
+<div class="column-screen">
+<p><a href="images/ll.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="images/ll.jpg" class="img-fluid"></a></p>
 </div>
 <hr>
 <section id="publication" class="level2">
@@ -281,9 +276,6 @@ ul.task-list li input[type="checkbox"] {
 <hr>
 <strong><strong><strong>
 
-<div class="hidden" aria-hidden="true">
-<span class="glightbox-desc lightbox-desc-1">A full screen image</span>
-</div>
 </strong></strong></strong></section><strong><strong><strong>
 
 </strong></strong></strong></main><strong><strong><strong> <!-- /main -->
@@ -735,7 +727,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"selector":".lightbox","descPosition":"bottom","loop":false,"closeEffect":"zoom","openEffect":"zoom"});
+<script>var lightboxQuarto = GLightbox({"descPosition":"bottom","loop":false,"closeEffect":"zoom","openEffect":"zoom","selector":".lightbox"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;

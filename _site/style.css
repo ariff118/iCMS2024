@@ -113,7 +113,7 @@ h3 {
 }
 
 .column-screen {
-  margin-bottom: -80px;
+  margin-bottom: 10px;
 }
 
 .figure-caption {
@@ -131,5 +131,5 @@ h3 {
 }
 
 .navbar a:hover {
-  color: #D3D3D3 !important; /* Adding a hover effect for better UX */
+  color: black !important; /* Adding a hover effect for better UX */
 }

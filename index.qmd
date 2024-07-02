@@ -1,5 +1,5 @@
 ::: {.column-screen}
-![A full screen image](images/ll.jpg)
+![](images/ll.jpg)
 
 :::
 
