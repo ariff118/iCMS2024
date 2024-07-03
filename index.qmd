@@ -19,9 +19,10 @@ Selected papers will be considered for publication in the selected journals as l
 1. Austrian Journal of Statistics\
 2. Romanian Statistical Review\
 3. IndoMath: Indonesia Mathematics Education(Sinta 3)\
-4. Voice of Academia (VoA)\
-5. Journal of Applied Mathematics and Computational Intelligence (AMCI)\
-6. Journal of Creative Practices in Language Learning and Teaching (CPLT)\
+4. Global Academic Excellence’s Journal\
+5. Voice of Academia (VoA)\
+6. Journal of Applied Mathematics and Computational Intelligence (AMCI)\
+7. Journal of Creative Practices in Language Learning and Teaching (CPLT)\
 
 Selected authors will be invited to prepare an extended version of their paper (more than 30% changes), which will be published after editorial board & evaluators approval and additional cost may apply.
 
@@ -32,6 +33,10 @@ Author will need to follow the template provided by the selected journal.\
 **IndoMath: Indonesia Mathematics **\
 **Education(Sinta 3)**\
 ![IndoMath: Indonesia Mathematics Education(Sinta 3)](images/indo.jpg){width=300px}
+---
+
+**Global Academic Excellence’s Journal **\
+![Global Academic Excellence’s Journal](images/tt.jpg){width=280px}
 
 ---
 
