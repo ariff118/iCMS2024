@@ -20,7 +20,7 @@
 5. Journal of Applied Mathematics and Computational Intelligence (AMCI)\
 6. Journal of Creative Practices in Language Learning and Teaching (CPLT)\
 7. Voice of Academia (VoA)\
-8. Akedemik Sains Malaysia\
+8. ASM Science Journal\
 
 • All journals are recognized in SCOPUS/MYCITE. The final publication is subject to a rigorous quality assessment by the editorial team of the publisher.
 
@@ -47,7 +47,7 @@ Author will need to follow the template provided by the selected journal.\
 ---
 
 **Global Academic Excellence’s Journal **\
-![Global Academic Excellence’s Journal](images/tt.jpg){width=280px}
+![Global Academic Excellence’s Journal](images/tt.jpg){width=270px}
 
 ---
 
@@ -65,6 +65,11 @@ Author will need to follow the template provided by the selected journal.\
 
  **Voice of Academia (VoA)**\
 ![Voice of Academia (VoA)](images/voa.png){width=300px}
+
+---
+
+**ASM Science Journal**\
+![ASM Science Journal](images/asm.png){width=280px}
 
 ---
 

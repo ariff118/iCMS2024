@@ -1,7 +1,8 @@
 ---
 title: "Publication"
 ---
-  
+--- 
+
 ## PUBLICATION
 
 •	All accepted, paid, and presented papers from iCMS2025 will be considered for publication in one of the following journals, matching their respective scopes.
@@ -15,13 +16,13 @@ title: "Publication"
 5. Journal of Applied Mathematics and Computational Intelligence (AMCI)\
 6. Journal of Creative Practices in Language Learning and Teaching (CPLT)\
 7. Voice of Academia (VoA)\
-8. Akedemik Sains Malaysia\
+8. ASM Science Journal\
 
-• All journals are recognized in SCOPUS/MYCITE. The final publication is subject to a rigorous quality assessment by the editorial team of the publisher. 
+• All journals are recognized in SCOPUS/MYCITE. The final publication is subject to a rigorous quality assessment by the editorial team of the publisher.
 
 • To uphold the high standards of a SCOPUS-indexed journal, each paper will be re-evaluated by the publisher's editorial team. Paper that not meet the criteria for the SCOPUS-indexed journal, it will be forwarded to the MYCITE journal for further consideration. papers will be published in WoS/Scopus/MyCITE Journals with **additional cost**.
 
-• The selection of the journal is at the discretion of the journal publisher and not the iCSM2025 organizer.
+• The selection of the journal is at the discretion of the journal publisher and not the iCSM2025 organizer
 
 Author will need to follow the template provided by the selected journal.\
 
@@ -42,7 +43,7 @@ Author will need to follow the template provided by the selected journal.\
 ---
 
 **Global Academic Excellence’s Journal **\
-![Global Academic Excellence’s Journal](images/tt.jpg){width=280px}
+![Global Academic Excellence’s Journal](images/tt.jpg){width=270px}
 
 ---
 
@@ -60,6 +61,11 @@ Author will need to follow the template provided by the selected journal.\
 
  **Voice of Academia (VoA)**\
 ![Voice of Academia (VoA)](images/voa.png){width=300px}
+
+---
+
+**ASM Science Journal**\
+![ASM Science Journal](images/asm.png){width=280px}
 
 ---
 
