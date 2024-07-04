@@ -3,8 +3,6 @@
 
 :::
 
-
-
 --- 
 
 ## PUBLICATION
@@ -15,16 +13,18 @@
 
 1. Austrian Journal of Statistics\
 2. Romanian Statistical Review\
-3. IndoMath: Indonesia Mathematics Education(Sinta 3)\
-4. Global Academic Excellence’s Journal\
+3. ASM Science Journal\
+4. IndoMath: Indonesia Mathematics Education(Sinta 3)\
 5. Journal of Applied Mathematics and Computational Intelligence (AMCI)\
 6. Journal of Creative Practices in Language Learning and Teaching (CPLT)\
 7. Voice of Academia (VoA)\
-8. ASM Science Journal\
+8. International Journal of Innovation and Industrial Revolution (IJIREV)\
+9. International Journal of Education,Psychology and Counseling (IJEPC)\
+
 
 • All journals are recognized in SCOPUS/MYCITE. The final publication is subject to a rigorous quality assessment by the editorial team of the publisher.
 
-• To uphold the high standards of a SCOPUS-indexed journal, each paper will be re-evaluated by the publisher's editorial team. Paper that not meet the criteria for the SCOPUS-indexed journal, it will be forwarded to the MYCITE journal for further consideration. papers will be published in WoS/Scopus/MyCITE Journals with **additional cost**.
+• To uphold the high standards of a SCOPUS-indexed journal, each paper will be re-evaluated by the publisher's editorial team. Paper that not meet the criteria for the SCOPUS-indexed journal, it will be forwarded to the MYCITE journal for further consideration. papers will be published in WoS/Scopus/MyCITE Journals with **additional cost** paid to journal publisher.
 
 • The selection of the journal is at the discretion of the journal publisher and not the iCSM2025 organizer
 
@@ -46,9 +46,14 @@ Author will need to follow the template provided by the selected journal.\
 ![IndoMath: Indonesia Mathematics Education(Sinta 3)](images/indo.jpg){width=300px}
 ---
 
-**Global Academic Excellence’s Journal **\
-![Global Academic Excellence’s Journal](images/tt.jpg){width=270px}
+**International Journal of Innovation **\
+**and Industrial Revolution(IJIREV)**\
+![International Journal of Innovation and Industrial Revolution (IJIREV)](images/13.jpg){width=280px}
 
+
+**International Journal of Education,**\
+**Psychology and Counseling (IJEPC)**\
+![International Journal of Education,Psychology and Counseling (IJEPC)](images/12.jpg){width=280px}
 ---
 
 **Journal of Applied Mathematics and**\
@@ -65,11 +70,6 @@ Author will need to follow the template provided by the selected journal.\
 
  **Voice of Academia (VoA)**\
 ![Voice of Academia (VoA)](images/voa.png){width=300px}
-
----
-
-**ASM Science Journal**\
-![ASM Science Journal](images/asm.png){width=280px}
 
 ---
 
