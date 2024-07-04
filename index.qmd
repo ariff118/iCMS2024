@@ -1,18 +1,15 @@
 ::: {.column-screen}
-![](images/ll.jpg)
+![](images/new.jpg)
 
 :::
 
 
 
-
----
+--- 
 
 ## PUBLICATION
 
-We are committed to including camera-ready paper submitted to iCMS2025 in our e-Proceeding book to ensure all authors can benefit from them.
-
-Selected papers will be considered for publication in the selected journals as listed below.
+•	All accepted, paid, and presented papers from iCMS2025 will be considered for publication in one of the following journals, matching their respective scopes.
 
 **Publication Opportunities:**
 
@@ -20,13 +17,27 @@ Selected papers will be considered for publication in the selected journals as l
 2. Romanian Statistical Review\
 3. IndoMath: Indonesia Mathematics Education(Sinta 3)\
 4. Global Academic Excellence’s Journal\
-5. Voice of Academia (VoA)\
-6. Journal of Applied Mathematics and Computational Intelligence (AMCI)\
-7. Journal of Creative Practices in Language Learning and Teaching (CPLT)\
+5. Journal of Applied Mathematics and Computational Intelligence (AMCI)\
+6. Journal of Creative Practices in Language Learning and Teaching (CPLT)\
+7. Voice of Academia (VoA)\
+8. Akedemik Sains Malaysia\
 
-Selected authors will be invited to prepare an extended version of their paper (more than 30% changes), which will be published after editorial board & evaluators approval and additional cost may apply.
+• All journals are recognized in SCOPUS/MYCITE. The final publication is subject to a rigorous quality assessment by the editorial team of the publisher.
+
+• To uphold the high standards of a SCOPUS-indexed journal, each paper will be re-evaluated by the publisher's editorial team. Paper that not meet the criteria for the SCOPUS-indexed journal, it will be forwarded to the MYCITE journal for further consideration. papers will be published in WoS/Scopus/MyCITE Journals with **additional cost**.
+
+• The selection of the journal is at the discretion of the journal publisher and not the iCSM2025 organizer
 
 Author will need to follow the template provided by the selected journal.\
+
+---
+
+**Austrian Journal of Statistics **\
+![Austrian Journal of Statistics](images/osg.jpg){width=300px}
+---
+
+**Romanian Statistical Review **\
+![Romanian Statistical Review](images/romania.jpeg){width=300px}
 
 ---
 
@@ -129,3 +140,4 @@ Author will need to follow the template provided by the selected journal.\
 :::
 
 ---
+
