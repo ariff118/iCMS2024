@@ -14,11 +14,11 @@ title: "Fees & Payment"
 
 ### [**Workshop Fee**]{style="color:green;"}\
 
-**To be Update**\
+**To be updated**\
 \
 \
 
-### [**Mode of Payments**]{style="color:green;"}\
+### [**Modes of Payment **]{style="color:green;"}\
 
 #### For International Participants/Presenters\
 
@@ -30,7 +30,7 @@ To pay for the conference, please click [here](https://uitmpay.uitm.edu.my/other
 
 [All cheques must be made payable to “Bendahari UiTM Kedah”.]{style="color:purple;"}\
 
-Please send the bank transaction slip or receipt as proof of payment by uploading to\
+Please send the bank transaction slip or receipt as proof of payment by uploading it to\
 
 [![Conference Bay](images/iconfbay.png)](http://submit.confbay.com/conf/icms2025){target="_blank"}
 *All monies paid are non-refunable

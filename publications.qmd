@@ -1,7 +1,6 @@
 ---
 title: "Publication"
 ---
---- 
 
 ## PUBLICATION
 
@@ -22,11 +21,11 @@ title: "Publication"
 
 • All journals are recognized in SCOPUS/MYCITE. The final publication is subject to a rigorous quality assessment by the editorial team of the publisher.
 
-• To uphold the high standards of a SCOPUS-indexed journal, each paper will be re-evaluated by the publisher's editorial team. Paper that not meet the criteria for the SCOPUS-indexed journal, it will be forwarded to the MYCITE journal for further consideration. papers will be published in WoS/Scopus/MyCITE Journals with **additional cost** paid to journal publisher.
+• Papers that do not meet the criteria for the SCOPUS-indexed journal will be forwarded to the MYCITE journal for further consideration. Papers will be published in WoS/Scopus/MyCITE journals with an additional cost paid to the journal publisher.
 
-• The selection of the journal is at the discretion of the journal publisher and not the iCSM2025 organizer
+• The selection of the journal is at the discretion of the journal publisher and not the iCSM2025 organizer.
 
-Author will need to follow the template provided by the selected journal.\
+• Author will need to follow the template provided by the selected journal.\
 
 ---
 
