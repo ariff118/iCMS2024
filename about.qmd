@@ -19,7 +19,7 @@ As we gear up for iCMS 2025, our sixth international conference, we are excited 
 
 ::: {.column width="45%"}
 **Organized by:**\
-![](images/uitm_rb.png){width=250px}
+![](images/uitm_pt.png){width=260px}
 :::
 
 ::: {.column width="10%"}
