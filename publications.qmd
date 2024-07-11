@@ -17,6 +17,8 @@ title: "Publication"
 7. Voice of Academia (VoA)\
 8. International Journal of Innovation and Industrial Revolution (IJIREV)\
 9. International Journal of Education,Psychology and Counseling (IJEPC)\
+0. UUM:Journal of Information and Communication Technology (JICT)\
+
 
 
 • All journals are recognized in SCOPUS/MYCITE. The final publication is subject to a rigorous quality assessment by the editorial team of the publisher.
@@ -62,6 +64,12 @@ title: "Publication"
 **Journal of Creative Practices in Language **\
 **Learning and Teaching (CPLT)**\
 ![Journal of Creative Practices in Language Learning and Teaching (CPLT)](images/CPLT.jpg){width=305px}
+
+--- 
+
+**UUM:Journal of Information and **\
+**Communication Technology (JICT)**\
+![UUM:Journal of Information and Communication Technology (JICT)](images/22.jpg){width=300px}
 
 --- 
 
