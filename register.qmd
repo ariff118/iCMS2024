@@ -16,7 +16,7 @@ To register for the conference, please click :
 ### Abstract\
 ::: {.columns}
 ::: {.column width="50%"}
-[![](images/word.png){width=100px}](files/iCMS2021_ABSTRACT_Template.docx){target="_blank"}\
+[![](images/word.png){width=100px}](files/iCMS2025_ABSTRACT_Template.docx){target="_blank"}\
 :::
 :::
 
