@@ -30,6 +30,6 @@ To register for the conference, please click :
 ### Camera  Ready\
 ::: {.columns}
 ::: {.column width="50%"}
-[![](images/word.png){width=100px}](files/iCMS21 camera ready template.docx){target="_blank"}
+[![](images/word.png){width=100px}](files/iCMS2025 camera ready template.docx){target="_blank"}
 :::
 :::
