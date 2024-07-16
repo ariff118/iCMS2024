@@ -23,7 +23,7 @@ To register for the conference, please click :
 ### Full paper\
 ::: {.columns}
 ::: {.column width="50%"}
-[![](images/word.png){width=100px}](files/iCMS21 full paper template.docx){target="_blank"}
+[![](images/word.png){width=100px}](files/iCMS2025 fullpaper template.docx){target="_blank"}
 :::
 :::
 
