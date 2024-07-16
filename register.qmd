@@ -13,17 +13,17 @@ To register for the conference, please click :
 ---
   
 ## DOWNLOAD\
-
 ### Abstract\
+::: {.columns}
+::: {.column width="50%"}
 [![](images/word.png){width=100px}](files/iCMS2021_ABSTRACT_Template.docx){target="_blank"}\
+:::
+:::
 
 ### Full paper\
 ::: {.columns}
 ::: {.column width="50%"}
 [![](images/word.png){width=100px}](files/iCMS21 full paper template.docx){target="_blank"}
-:::
-::: {.column width="50%"}
-[![](images/latex.png){width=100px}](files/iCMS2021 New Template.zip){target="_blank"}\
 :::
 :::
 
@@ -31,8 +31,5 @@ To register for the conference, please click :
 ::: {.columns}
 ::: {.column width="50%"}
 [![](images/word.png){width=100px}](files/iCMS21 camera ready template.docx){target="_blank"}
-:::
-::: {.column width="50%"}
-[![](images/latex.png){width=100px}](files/iCMS2021 New Template.rar){target="_blank"}\
 :::
 :::
