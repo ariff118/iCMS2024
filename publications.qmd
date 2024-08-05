@@ -12,9 +12,9 @@ title: "Publication"
 
 - Austrian Journal of Statistics (WoS)\
 - Romanian Statistical Review (WoS)\
-- Educational Media International (EMI) - (WoS)\
-- Journal of Information and Communication Technology (JICT) -(WoS)\
-- MATEMATIKA: Malaysian Journal of Industrial and Applied Mathematics (WOS)\
+- Educational Media International (EMI) (WoS)\
+- Journal of Information and Communication Technology (JICT) (WoS)\
+- MATEMATIKA: Malaysian Journal of Industrial and Applied Mathematics (WoS)\
 - ASM Science Journal (SCOPUS)\
 
 **MyCITE**\
