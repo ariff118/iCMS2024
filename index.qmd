@@ -15,9 +15,9 @@
 
 - Austrian Journal of Statistics (WoS)\
 - Romanian Statistical Review (WoS)\
-- Educational Media International (EMI) (SCOPUS)\
-- Journal of Information and Communication Technology (JICT) (WoS/SCOPUS)\
 - MATEMATIKA: Malaysian Journal of Industrial and Applied Mathematics (WoS)\
+- Journal of Information and Communication Technology (JICT) (WoS/SCOPUS)\
+- Educational Media International (EMI) (SCOPUS)\
 
 **MyCITE**\
 
