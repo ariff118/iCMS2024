@@ -18,9 +18,9 @@ website:
             file: publications.qmd
       - text: "<span style='color: white;'><strong>Programme</span>"
         menu:
-          - text: "<span style='color: black;'>workshops</span>"
+          - text: "<span style='color: black;'>Workshops</span>"
             file: workshops.qmd
-          - text: "<span style='color: black;'>Programme schedule</span>"
+          - text: "<span style='color: black;'>Programme Schedule</span>"
             file: ProgramSchedule.qmd
       - text: "<span style='color: white;'><strong>Registration & Submission</span>"
         file: register.qmd

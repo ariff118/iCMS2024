@@ -11,7 +11,7 @@ Publication Opportunities:
 WoS/SCOPUS\
 
 - Romanian Statistical Review (WoS)\
-- Austrian Journal of Statistics (WoS)\
+- Austrian Journal of Statistics (SCOPUS/WoS)\
 - Educational Media International (EMI) (SCOPUS)\
 - Journal of Information and Communication Technology (JICT) (WoS/SCOPUS)- RM 1000\
 - MATEMATIKA: Malaysian Journal of Industrial and Applied Mathematics (WoS) - RM 300\
@@ -28,7 +28,7 @@ MyCITE\
 SINTA\
 
 - IndoMath: Indonesia Mathematics Education(Sinta 3) - 75.00 (USD)\
-- Jurnal dari PGRI Adi Buana Surabaya(Sinta 4) – Submission fee (no); Approved for Publication (approximately RM 140-RM 150)\
+- JStatistika PGRI Adi Buana Surabaya(Sinta 4) – Submission fee (no); Approved for Publication (approximately RM 140-RM 150)\
 
 • All journals are recognized in SCOPUS/MYCITE. The final publication is subject to a rigorous quality assessment by the editorial team of the publisher.
 
@@ -82,7 +82,7 @@ SINTA\
 
 --- 
 
- **Voice of Academia (VoA)**\
+**Voice of Academia (VoA)**\
 ![Voice of Academia (VoA)](images/voa.png){width=300px}
 
 ---

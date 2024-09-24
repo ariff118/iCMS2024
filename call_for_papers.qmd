@@ -8,9 +8,9 @@ College of Computing, Informatics and Mathematics of Universiti Teknologi MARA (
 
 **Important dates**
   
-Abstract Submission Deadline : 1 September 2024\
+Abstract Submission Deadline : ~~1 September 2024~~ 15 October 2024\
 Notification of Abstract Acceptance : Rolling\
-Full Paper Submission Deadline : 15 October 2024\
+Full Paper Submission Deadline : ~~15 October 2024~~ 31 October 2024\
 Camera Ready Paper Deadline : 20 December 2024\
 Online Registration Deadline : Rolling\
 
@@ -19,6 +19,6 @@ Full Payment Deadline : 15 January 2024\
 
 Pre-Conference Workshop Date : 20 January 2025\
 
-Conference Dates : 21 - 22 January 2025\
+Conference Dates : 21 - 22 January 2025 (Presentation Mode: **VIRTUAL**)\
 
 ---
