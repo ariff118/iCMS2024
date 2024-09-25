@@ -1,5 +1,5 @@
 ::: {.column-screen}
-![](images/new.jpg)
+![](images/new1.jpeg)
 
 :::
 
