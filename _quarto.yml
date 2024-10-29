@@ -26,6 +26,8 @@ website:
         file: register.qmd
       - text: "<span style='color: white;'><strong>Fees & Payment</span>"
         file: fees.qmd
+      - text: "<span style='color: white;'><strong>Maths Proofread</span>"
+        file: offers.qmd
       - text: "<span style='color: white;'><strong>Our Teams</span>"
         file: our_teams.qmd
       - text: "<span style='color: white;'><strong>Contact</span>" 
