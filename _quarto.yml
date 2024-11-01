@@ -18,6 +18,8 @@ website:
             file: publications.qmd
       - text: "<span style='color: white;'><strong>Programme</span>"
         menu:
+          - text: "<span style='color: black;'>Keynote Speakers</span>"
+            file: keynotes.qmd
           - text: "<span style='color: black;'>Workshops</span>"
             file: workshops.qmd
           - text: "<span style='color: black;'>Programme Schedule</span>"

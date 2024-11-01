@@ -2,6 +2,61 @@
 title: "Publication"
 ---
 
+::: {.column-margin}
+
+## **Previous Publications**\
+
+<center>
+**iCMS 2021**\
+[![iCMS 2021](images/pubs/icms2021.png)](https://36f92a07-7496-48b7-b8c5-d4b3a7a690bd.filesusr.com/ugd/9483e7_fa3419ecd9a748208fc6b7e8d5421225.pdf){target="_blank"}
+</center>
+
+---
+
+<center>
+**iCMS 2019**\
+[![Mathematics and Statistics](images/pubs/icms2019_1.gif)](http://www.hrpub.org/journals/jour_info.php?id=34){target="_blank"}\
+
+[![Universal Journal of Electrical and Electronic Engineering](images/pubs/icms2019_2.gif)](http://www.hrpub.org/journals/jour_archive.php?id=49){target="_blank"}\
+
+[![Universal Journal of Mechanical Engineering](images/pubs/icms2019_3.gif)](http://www.hrpub.org/journals/jour_archive.php?id=51){target="_blank"}\
+
+[![Civil Engineering and Architecture](images/pubs/icms2019_4.gif)](http://www.hrpub.org/journals/jour_archive.php?id=48&iid=1431){target="_blank"}\
+
+[![Universal Journal of Educational Research](images/pubs/icms2019_5.gif)](http://www.hrpub.org/journals/jour_info.php?id=95){target="_blank"}\
+
+[![Austrian Journal ofStatistics](images/pubs/icms2019_6.gif)](https://www.ajs.or.at/index.php/ajs){target="_blank"}\
+</center>
+
+---
+
+<center>
+**iCMS 2017**\
+[![iCMS 2017](images/pubs/icms2017_1.png)](https://www.springer.com/gp/book/9789811372780){target="_blank"}
+</center>
+
+<center>
+![iCMS 2017](images/pubs/icms2017_2.png)
+</center>
+
+<center>
+**iCMS 2017**\
+![iCMS 2017](images/pubs/icms2017_3.png)
+</center>
+
+---
+
+<center>
+**iCMS 2015**\
+![iCMS 2015](images/pubs/icms2015_2.png)
+</center>
+
+<center>
+![iCMS 2015](images/pubs/icms2015_1.png)
+</center>
+
+:::
+
 ## PUBLICATION
 
 •	All accepted, paid, and presented papers from iCMS2025 will be considered for publication in one of the following journals, matching their respective scopes.
@@ -10,25 +65,25 @@ Publication Opportunities:
 
 WoS/SCOPUS\
 
-- Romanian Statistical Review (WoS)\
-- Austrian Journal of Statistics (SCOPUS/WoS)\
-- Educational Media International (EMI) (SCOPUS)\
-- Journal of Information and Communication Technology (JICT) (WoS/SCOPUS)- RM 1000\
-- MATEMATIKA: Malaysian Journal of Industrial and Applied Mathematics (WoS) - RM 300\
+- Romanian Statistical Review (WoS) [https://www.revistadestatistica.ro/](https://www.revistadestatistica.ro/)\
+- Austrian Journal of Statistics (SCOPUS/WoS) [https://www.ajs.or.at/index.php/ajs/index](https://www.ajs.or.at/index.php/ajs/index)\
+- Educational Media International (EMI) (SCOPUS)[https://www.tandfonline.com/journals/remi20](https://www.tandfonline.com/journals/remi20)\
+- Journal of Information and Communication Technology (JICT) (WoS/SCOPUS) - RM 1000 [https://e-journal.uum.edu.my/index.php/jict](https://e-journal.uum.edu.my/index.php/jict)\
+- MATEMATIKA: Malaysian Journal of Industrial and Applied Mathematics (WoS) - RM 300 [https://matematika.utm.my/index.php/matematika](https://matematika.utm.my/index.php/matematika)\
 
 
 MyCITE\
 
-- Journal of Applied Mathematics and Computational Intelligence (AMCI)*\
-- Journal of Creative Practices in Language Learning and Teaching (CPLT)*\
-- Voice of Academia (VoA)*\
-- International Journal of Innovation and Industrial Revolution (IJIREV)- RM 200\
-- International Journal of Education,Psychology and Counseling (IJEPC) - RM 200\
+- Journal of Applied Mathematics and Computational Intelligence (AMCI)* [https://ejournal.unimap.edu.my/index.php/amci](https://ejournal.unimap.edu.my/index.php/amci)\
+- Journal of Creative Practices in Language Learning and Teaching (CPLT)* [https://cplt.uitm.edu.my/v1/](https://cplt.uitm.edu.my/v1/)\
+- Voice of Academia (VoA)* [https://voa.uitm.edu.my/v1/](https://voa.uitm.edu.my/v1/)\
+- International Journal of Innovation and Industrial Revolution (IJIREV)- RM 200 [https://ijirev.com/](https://ijirev.com/)\
+- International Journal of Education,Psychology and Counseling (IJEPC) - RM 200 [https://www.ijepc.com/](https://www.ijepc.com/)\
 
 SINTA\
 
-- IndoMath: Indonesia Mathematics Education(Sinta 3) - 75.00 (USD)\
-- JStatistika PGRI Adi Buana Surabaya(Sinta 4) – Submission fee (no); Approved for Publication (approximately RM 140-RM 150)\
+- IndoMath: Indonesia Mathematics Education (Sinta 3) - 75.00 (USD) [https://indomath.org/index.php/indomath](https://indomath.org/index.php/indomath)\
+- JStatistika PGRI Adi Buana Surabaya (Sinta 4) – Submission fee (no); Approved for Publication (approximately RM 140-RM 150) [https://jurnal.unipasby.ac.id/index.php/jstatistika/](https://jurnal.unipasby.ac.id/index.php/jstatistika/)\
 
 • All journals are recognized in SCOPUS/MYCITE. The final publication is subject to a rigorous quality assessment by the editorial team of the publisher.
 
@@ -87,75 +142,78 @@ SINTA\
 
 ---
 
-<center>
-**Previous Publications**\
-</center>
+<!-- ::: {.column-margin} -->
+
+<!-- <center> -->
+<!-- **Previous Publications**\ -->
+<!-- </center> -->
 
 
-::: {.column width="24%"}
-<center>
-**iCMS 2021**\
-[![iCMS 2021](images/pubs/icms2021.png)](https://36f92a07-7496-48b7-b8c5-d4b3a7a690bd.filesusr.com/ugd/9483e7_fa3419ecd9a748208fc6b7e8d5421225.pdf){target="_blank"}
-</center>
-:::
+<!-- ::: {.column width="24%"} -->
+<!-- <center> -->
+<!-- **iCMS 2021**\ -->
+<!-- [![iCMS 2021](images/pubs/icms2021.png)](https://36f92a07-7496-48b7-b8c5-d4b3a7a690bd.filesusr.com/ugd/9483e7_fa3419ecd9a748208fc6b7e8d5421225.pdf){target="_blank"} -->
+<!-- </center> -->
+<!-- ::: -->
 
----
+<!-- --- -->
 
-::: {.column width="24%"}
-<center>
-**iCMS 2019**\
-[![Mathematics and Statistics](images/pubs/icms2019_1.gif)](http://www.hrpub.org/journals/jour_info.php?id=34){target="_blank"}\
+<!-- ::: {.column width="24%"} -->
+<!-- <center> -->
+<!-- **iCMS 2019**\ -->
+<!-- [![Mathematics and Statistics](images/pubs/icms2019_1.gif)](http://www.hrpub.org/journals/jour_info.php?id=34){target="_blank"}\ -->
 
-[![Universal Journal of Electrical and Electronic Engineering](images/pubs/icms2019_2.gif)](http://www.hrpub.org/journals/jour_archive.php?id=49){target="_blank"}\
+<!-- [![Universal Journal of Electrical and Electronic Engineering](images/pubs/icms2019_2.gif)](http://www.hrpub.org/journals/jour_archive.php?id=49){target="_blank"}\ -->
 
-[![Universal Journal of Mechanical Engineering](images/pubs/icms2019_3.gif)](http://www.hrpub.org/journals/jour_archive.php?id=51){target="_blank"}\
+<!-- [![Universal Journal of Mechanical Engineering](images/pubs/icms2019_3.gif)](http://www.hrpub.org/journals/jour_archive.php?id=51){target="_blank"}\ -->
 
-[![Civil Engineering and Architecture](images/pubs/icms2019_4.gif)](http://www.hrpub.org/journals/jour_archive.php?id=48&iid=1431){target="_blank"}\
+<!-- [![Civil Engineering and Architecture](images/pubs/icms2019_4.gif)](http://www.hrpub.org/journals/jour_archive.php?id=48&iid=1431){target="_blank"}\ -->
 
-[![Universal Journal of Educational Research](images/pubs/icms2019_5.gif)](http://www.hrpub.org/journals/jour_info.php?id=95){target="_blank"}\
-</center>
-:::
-::: {.column width="24%"}
-<center>
-**iCMS 2019**\
-[![Austrian Journal ofStatistics](images/pubs/icms2019_6.gif)](https://www.ajs.or.at/index.php/ajs){target="_blank"}\
-</center>
-:::
+<!-- [![Universal Journal of Educational Research](images/pubs/icms2019_5.gif)](http://www.hrpub.org/journals/jour_info.php?id=95){target="_blank"}\ -->
+<!-- </center> -->
+<!-- ::: -->
+<!-- ::: {.column width="24%"} -->
+<!-- <center> -->
+<!-- **iCMS 2019**\ -->
+<!-- [![Austrian Journal ofStatistics](images/pubs/icms2019_6.gif)](https://www.ajs.or.at/index.php/ajs){target="_blank"}\ -->
+<!-- </center> -->
+<!-- ::: -->
 
----
+<!-- --- -->
 
-::: {.column width="24%"}
-<center>
-**iCMS 2017**\
-[![iCMS 2017](images/pubs/icms2017_1.png)](https://www.springer.com/gp/book/9789811372780){target="_blank"}
-</center>
-:::
-::: {.column width="24%"}
-<center>
-**iCMS 2017**\
-![iCMS 2017](images/pubs/icms2017_2.png)
-</center>
-:::
-::: {.column width="24%"}
-<center>
-**iCMS 2017**\
-![iCMS 2017](images/pubs/icms2017_3.png)
-</center>
-:::
+<!-- ::: {.column width="24%"} -->
+<!-- <center> -->
+<!-- **iCMS 2017**\ -->
+<!-- [![iCMS 2017](images/pubs/icms2017_1.png)](https://www.springer.com/gp/book/9789811372780){target="_blank"} -->
+<!-- </center> -->
+<!-- ::: -->
+<!-- ::: {.column width="24%"} -->
+<!-- <center> -->
+<!-- **iCMS 2017**\ -->
+<!-- ![iCMS 2017](images/pubs/icms2017_2.png) -->
+<!-- </center> -->
+<!-- ::: -->
+<!-- ::: {.column width="24%"} -->
+<!-- <center> -->
+<!-- **iCMS 2017**\ -->
+<!-- ![iCMS 2017](images/pubs/icms2017_3.png) -->
+<!-- </center> -->
+<!-- ::: -->
 
----
+<!-- --- -->
 
-::: {.column width="24%"}
-<center>
-**iCMS 2015**\
-![iCMS 2015](images/pubs/icms2015_2.png)
-</center>
-:::
-::: {.column width="24%"}
-<center>
-**iCMS 2015**\
-![iCMS 2015](images/pubs/icms2015_1.png)
-</center>
-:::
+<!-- ::: {.column width="24%"} -->
+<!-- <center> -->
+<!-- **iCMS 2015**\ -->
+<!-- ![iCMS 2015](images/pubs/icms2015_2.png) -->
+<!-- </center> -->
+<!-- ::: -->
+<!-- ::: {.column width="24%"} -->
+<!-- <center> -->
+<!-- **iCMS 2015**\ -->
+<!-- ![iCMS 2015](images/pubs/icms2015_1.png) -->
+<!-- </center> -->
+<!-- ::: -->
 
+<!-- ::: -->
 ---
