@@ -85,6 +85,29 @@ SINTA\
 - IndoMath: Indonesia Mathematics Education (Sinta 3) - 75.00 (USD) [https://indomath.org/index.php/indomath](https://indomath.org/index.php/indomath)\
 - JStatistika PGRI Adi Buana Surabaya (Sinta 4) – Submission fee (no); Approved for Publication (approximately RM 140-RM 150) [https://jurnal.unipasby.ac.id/index.php/jstatistika/](https://jurnal.unipasby.ac.id/index.php/jstatistika/)\
 
+## Semarak Ilmu Journals and Publication Fees\
+
+**SCOPUS Journals**\
+
+| No. | Journal Name | Fee | 
+|-----|--------------|-----|
+| 1   | **CFD Letters** | RM2000 (International Corresponding Author) or RM1500 (Malaysian Corresponding Author) |
+| 2   | **Journal of Advanced Research in Applied Mechanics** | |
+| 4   | **Journal of Advanced Research in Fluid Mechanics and Thermal Sciences** | |
+| 5   | **Journal of Advanced Research in Micro and Nano Engineering** | RM2500 (International Corresponding Author) or RM2000 (Malaysian Corresponding Author) |
+| 6   | **Journal of Advanced Research in Numerical Heat Transfer** | |
+
+\
+**MYCITE Journals**\
+
+| No. | Journal Name | Fee |
+|-----|--------------|-----|
+| 1   | **International Journal of Advanced Research in Future Ready Learning and Education** | RM250 (Malaysian Corresponding Author) |
+| 2   | **Journal of Advanced Research Design** | RM250 (Malaysian/International Corresponding Author) |
+| 3   | **Journal of Advanced Research in Computing and Applications** | |
+
+## General Information\
+
 • All journals are recognized in SCOPUS/MYCITE. The final publication is subject to a rigorous quality assessment by the editorial team of the publisher.
 
 • Papers that do not meet the criteria for the SCOPUS-indexed journal will be forwarded to the MYCITE journal for further consideration. Papers will be published in WoS/Scopus/MyCITE journals with an additional cost paid to the journal publisher.
@@ -216,4 +239,3 @@ SINTA\
 <!-- ::: -->
 
 <!-- ::: -->
----
