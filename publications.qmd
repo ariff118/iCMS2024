@@ -65,11 +65,11 @@ Publication Opportunities:
 
 WoS/SCOPUS\
 
-- Romanian Statistical Review (WoS) [https://www.revistadestatistica.ro/](https://www.revistadestatistica.ro/)\
-- Austrian Journal of Statistics (SCOPUS/WoS) [https://www.ajs.or.at/index.php/ajs/index](https://www.ajs.or.at/index.php/ajs/index)\
-- Educational Media International (EMI) (SCOPUS)[https://www.tandfonline.com/journals/remi20](https://www.tandfonline.com/journals/remi20)\
-- Journal of Information and Communication Technology (JICT) (WoS/SCOPUS) - RM 1000 [https://e-journal.uum.edu.my/index.php/jict](https://e-journal.uum.edu.my/index.php/jict)\
-- MATEMATIKA: Malaysian Journal of Industrial and Applied Mathematics (WoS) - RM 300 [https://matematika.utm.my/index.php/matematika](https://matematika.utm.my/index.php/matematika)\
+- Romanian Statistical Review (WoS / SCOPUS (Q4)) [https://www.revistadestatistica.ro/](https://www.revistadestatistica.ro/)\
+- Austrian Journal of Statistics (SCOPUS (Q4) / WoS) [https://www.ajs.or.at/index.php/ajs/index](https://www.ajs.or.at/index.php/ajs/index)\
+- Educational Media International (EMI) (SCOPUS (Q2))[https://www.tandfonline.com/journals/remi20](https://www.tandfonline.com/journals/remi20)\
+- Journal of Information and Communication Technology (JICT) (WoS / SCOPUS (Q4)) - RM 1000 [https://e-journal.uum.edu.my/index.php/jict](https://e-journal.uum.edu.my/index.php/jict)\
+- MATEMATIKA: Malaysian Journal of Industrial and Applied Mathematics (WoS (Q4)) - RM 300 [https://matematika.utm.my/index.php/matematika](https://matematika.utm.my/index.php/matematika)\
 
 
 MyCITE\
@@ -83,7 +83,7 @@ MyCITE\
 SINTA\
 
 - IndoMath: Indonesia Mathematics Education (Sinta 3) - 75.00 (USD) [https://indomath.org/index.php/indomath](https://indomath.org/index.php/indomath)\
-- JStatistika PGRI Adi Buana Surabaya (Sinta 4) – Submission fee (no); Approved for Publication (approximately RM 140-RM 150) [https://jurnal.unipasby.ac.id/index.php/jstatistika/](https://jurnal.unipasby.ac.id/index.php/jstatistika/)\
+- J Statistika PGRI Adi Buana Surabaya (Sinta 4) – Submission fee (no); Approved for Publication (approximately RM 140-RM 150) [https://jurnal.unipasby.ac.id/index.php/jstatistika/](https://jurnal.unipasby.ac.id/index.php/jstatistika/)\
 
 ## Semarak Ilmu Journals and Publication Fees\
 
@@ -91,11 +91,11 @@ SINTA\
 
 | No. | Journal Name | Fee | 
 |-----|--------------|-----|
-| 1   | **CFD Letters** | RM2000 (International Corresponding Author) or RM1500 (Malaysian Corresponding Author) |
+| 1   | **CFD Letters** (Q3) | RM2000 (International Corresponding Author) or RM1500 (Malaysian Corresponding Author) |
 | 2   | **Journal of Advanced Research in Applied Mechanics** | |
-| 4   | **Journal of Advanced Research in Fluid Mechanics and Thermal Sciences** | |
+| 4   | **Journal of Advanced Research in Fluid Mechanics and Thermal Sciences** (Q3) | |
 | 5   | **Journal of Advanced Research in Micro and Nano Engineering** | RM2500 (International Corresponding Author) or RM2000 (Malaysian Corresponding Author) |
-| 6   | **Journal of Advanced Research in Numerical Heat Transfer** | |
+| 6   | **Journal of Advanced Research in Numerical Heat Transfer** (Q1) | |
 
 \
 **MYCITE Journals**\
