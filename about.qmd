@@ -30,12 +30,16 @@ As we gear up for iCMS 2025, our sixth international conference, we are excited 
 **Supporting partners:**\
 
 ::: {.columns}
-::: {.column width="45%"}
+::: {.column width="30%"}
 ![](images/eub.png){width=75px}
 :::
 
-::: {.column width="45%"}
+::: {.column width="30%"}
 ![](images/Rlogo.png){width=75px}
+:::
+
+::: {.column width="30%"}
+![](images/MPR_logo.jpeg){width=75px}
 :::
 :::
 
