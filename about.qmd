@@ -39,7 +39,7 @@ As we gear up for iCMS 2025, our sixth international conference, we are excited 
 :::
 
 ::: {.column width="30%"}
-![](images/MPR_logo.jpeg){width=75px}
+![](images/MPR_logo.jpeg){width=150px}
 :::
 :::
 
