@@ -9,3 +9,342 @@ Button\
 
 Please note, this programme schedule is subject to change at any time. If you have any queries about the schedule, please feel free to contact us by email at [icms2025@uitm.edu.my](icms2025@uitm.edu.my)\
 ---
+
+::: {.panel-tabset}
+
+### Conference
+
+::: {.panel-tabset}
+
+### Day 1 (21 January 2025)
+
+::: {.columns}
+::: {.column width="30%"}
+**Time**\
+\
+08:00 - 08:40\
+:::
+
+::: {.column width="70%"}
+**Activities**\
+\
+Registration:\
+Familiarise yourself with the conference platform and check that\
+your equipment is working by accessing the ‘registration’ session.\
+:::
+
+::: {.column width="30%"}
+08:40 - 08:45\
+:::
+
+::: {.column width="70%"}
+Doa Recitation and National Anthem\
+:::
+
+::: {.column width="30%"}
+08:45 - 09:00\
+:::
+
+::: {.column width="70%"}
+
+Welcoming Speech by:\
+DR. NORIN RAHAYU SHAMSUDDIN\
+Chair iCMS2025
+Universiti Teknologi MARA (UiTM) Cawangan Kedah\
+:::
+
+::: {.column width="30%"}
+09:00 - 09:15\
+:::
+
+::: {.column width="70%"}
+Officiating Speech by:\
+PROF. DR. ROSHIMA HAJI SAID\
+Rector, Universiti Teknologi Mara (UiTM) Kedah\
+:::
+
+::: {.column width="30%"}
+09:15 - 09:20\
+:::
+
+::: {.column width="70%"}
+Video Montage (Opening iCMS2025)\
+:::
+
+::: {.column width="30%"}
+09:20 - 11:00\
+:::
+
+::: {.column width="70%"}
+Parallel Session 1\
+Choose room and sessions to attend.\
+[SEE OPTIONS]\
+:::
+
+::: {.column width="30%"}
+11:00 - 11:05\
+:::
+
+::: {.column width="70%"}
+Video Montage (Math ProofReads)\
+:::
+
+::: {.column width="30%"}
+11:05 - 12:45\
+:::
+
+::: {.column width="70%"}
+Parallel Session 2\
+Choose room and sessions to attend.\
+[SEE OPTIONS]\
+:::
+
+::: {.column width="30%"}
+12:45 - 14:30\
+:::
+
+::: {.column width="70%"}
+Refreshment Break\
+:::
+
+::: {.column width="30%"}
+14:30 - 15:30\
+:::
+
+::: {.column width="70%"}
+Keynote Speaker\
+Assoc. Prof. Antoniade Ciprian Alexandru\
+AI AS AN ACCELERATOR AND COMMON LANGUAGE FOR SCIENTIST\
+:::
+
+::: {.column width="30%"}
+15:30 - 16:50\
+:::
+
+::: {.column width="70%"}
+Parallel Session 3\
+Choose room and sessions to attend.\
+[SEE OPTIONS]\
+:::
+
+::: {.column width="30%"}
+16:50\
+:::
+
+::: {.column width="70%"}
+End of Day 1\
+:::
+
+:::
+
+### Day 2 (22 January 2022)
+
+::: {.columns}
+
+::: {.column width="30%"}
+**Time**\
+\
+08:00 - 08:40\
+:::
+
+::: {.column width="70%"}
+**Activities**\
+\
+Registration:\
+Familiarise yourself with the conference platform and check that your equipment is working by accessing the ‘registration’ session.\
+:::
+
+::: {.column width="30%"}
+08:40 -10:15\
+:::
+
+::: {.column width="70%"}
+Parallel Session 4\
+Choose room and sessions to attend.\
+[SEE OPTIONS]\
+:::
+
+::: {.column width="30%"}
+10:15 – 11:00\
+:::
+
+::: {.column width="70%"}
+Plenary Speaker\
+Ts. Inv. Dr. Wan Azani Bin Wan Mustafa\
+HEALTHCARE RESEARCH: THE ROLE OF ARTIFICIAL INTELLIGENCE IN MODERN MEDICINE\
+:::
+
+::: {.column width="30%"}
+11:00 - 13:00\
+:::
+
+::: {.column width="70%"}
+Parallel Session 5\
+Choose room and sessions to attend.\
+[SEE OPTIONS]\
+:::
+
+::: {.column width="30%"}
+13:00 - 14:30\
+:::
+
+::: {.column width="70%"}
+Refreshment Break\
+:::
+
+::: {.column width="30%"}
+14:30 - 15:10\
+:::
+
+::: {.column width="70%"}
+Parallel Session 6\
+Choose room and sessions to attend.\
+[SEE OPTIONS]\
+:::
+
+::: {.column width="30%"}
+15:10 - 15:25\
+:::
+
+::: {.column width="70%"}
+Video Montage & Refereshment Break\
+:::
+
+::: {.column width="30%"}
+15:25 - 16:00\
+:::
+
+::: {.column width="70%"}
+Closing Speech by:\
+PROF. DR. ROSHIMA HAJI SAID\
+Rector, Universiti Teknologi Mara (UiTM) Kedah\
+Announcement of BEST PAPER AWARD\
+Announcement of BEST VIDEO PRESENTATION\
+:::
+
+::: {.column width="30%"}
+16:00\
+:::
+
+::: {.column width="70%"}
+Program Ends\
+:::
+
+:::
+
+:::
+
+### Workshop
+
+::: {.panel-tabset}
+
+### Day 1 (19 January 2025)
+
+::: {.columns}
+
+::: {.column width="30%"}
+**Time**\
+\
+9:00 AM - 10:30AM\
+:::
+
+::: {.column width="70%"}
+**Activities**\
+\
+SLOT 1: Scopus Vs WoS\
+SLOT 2: Research Article vs Review Article\
+:::
+
+::: {.column width="30%"}
+10:40 AM - 10:40AM\
+:::
+
+::: {.column width="70%"}
+Break\
+:::
+
+::: {.column width="30%"}
+11:00AM - 12:45PM
+:::
+
+::: {.column width="70%"}
+SLOT 3: Jenis-Jenis Review Article\
+SLOT 4: Struktur SLR Artikel\
+:::
+
+::: {.column width="30%"}
+12:45PM - 2:15PM\
+:::
+
+::: {.column width="70%"}
+Lunch Break & Solat
+:::
+
+::: {.column width="30%"}
+2:00PM - 5:00PM\
+:::
+
+::: {.column width="70%"}
+SLOT 5: Searching Teknik (Scopus & Web of Science & Google Scholar) - Search String\
+SLOT 6: Searching Theme & Keyword\
+SLOT 7: Draft template SLR\
+:::
+
+:::
+
+### Day 2 (20 January 2025)
+
+::: {.columns}
+
+::: {.column width="30%"}
+**Time**\
+\
+9:00AM - 10:30AM\
+:::
+
+::: {.column width="70%"}
+**Activities**\
+\
+SLOT 8: Extract Data dari Database\
+SLOT 9: Tentukan Inclusion dan Exclusion\
+:::
+
+::: {.column width="30%"}
+10:30AM - 10:40AM\
+:::
+
+::: {.column width="70%"}
+Break\
+:::
+
+::: {.column width="30%"}
+11:00AM - 12:45PM\
+:::
+
+::: {.column width="70%"}
+SLOT 10: Indentification, Screening & Duplicate Process\
+SLOT 11: Develop PRISMA framework\
+:::
+
+::: {.column width="30%"}
+12:45PM - 2:15PM\
+:::
+
+::: {.column width="70%"}
+Lunch Break & Solat\
+:::
+
+::: {.column width="30%"}
+2:15PM - 5:00PM\
+:::
+
+::: {.column width="70%"}
+SLOT 12: Teknik penulisan SLR\
+SLOT 13: Tip & Trick Publish Artikel\
+:::
+
+:::
+
+:::
+
+:::
