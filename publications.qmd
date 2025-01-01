@@ -63,7 +63,7 @@ title: "Publication"
 
 Publication Opportunities:
 
-WoS/SCOPUS\
+### WoS/SCOPUS
 
 - Romanian Statistical Review (WoS / SCOPUS (Q4)) [https://www.revistadestatistica.ro/](https://www.revistadestatistica.ro/)\
 - Austrian Journal of Statistics (SCOPUS (Q4) / WoS) [https://www.ajs.or.at/index.php/ajs/index](https://www.ajs.or.at/index.php/ajs/index)\
@@ -72,20 +72,59 @@ WoS/SCOPUS\
 - MATEMATIKA: Malaysian Journal of Industrial and Applied Mathematics (WoS (Q4)) - RM 300 [https://matematika.utm.my/index.php/matematika](https://matematika.utm.my/index.php/matematika)\
 
 
-MyCITE\
+### MyCITE
 
 - Journal of Applied Mathematics and Computational Intelligence (AMCI)* [https://ejournal.unimap.edu.my/index.php/amci](https://ejournal.unimap.edu.my/index.php/amci)\
 - Journal of Creative Practices in Language Learning and Teaching (CPLT)* [https://cplt.uitm.edu.my/v1/](https://cplt.uitm.edu.my/v1/)\
 - Voice of Academia (VoA)* [https://voa.uitm.edu.my/v1/](https://voa.uitm.edu.my/v1/)\
 - International Journal of Innovation and Industrial Revolution (IJIREV)- RM 200 [https://ijirev.com/](https://ijirev.com/)\
 - International Journal of Education,Psychology and Counseling (IJEPC) - RM 200 [https://www.ijepc.com/](https://www.ijepc.com/)\
+\
+\
+**GLOBAL ACADEMIC EXCELLENCE (M) SDN BHD - 2023 (MyCite Indexed)**\
+1) International Journal of Law, Government and Communication (IJLGC)\
+eISSN : 0128-1763\
+Website : [https://gaexcellence.com/ijlgc](https://gaexcellence.com/ijlgc)\
+\
+2) Journal of Tourism,Hospitality and Environment Management (JTHEM)\
+eISSN: 0128-178X\
+Website : [https://gaexcellence.com/jthem](https://gaexcellence.com/jthem)\
+\
+3) Journal of Information System and Technology Management (JISTM)\
+eISSN: 0128-1666\
+Website : [https://gaexcellence.com/jistm](https://gaexcellence.com/jistm)\
+\
+4) International Journal of Education,Psychology and Counseling (IJEPC)\
+eISSN : 0128-164X\
+Website : [https://gaexcellence.com/ijepc](https://gaexcellence.com/ijepc)\
+\
+5) International Journal of Entrepreneurship and Management Practices (IJEMP)\
+eISSN : 2600-8750\
+Website : [https://gaexcellence.com/ijemp](https://gaexcellence.com/ijemp)\
+\
+6) International Journal of Innovation and Industrial Revolution (IJIREV)\
+eISSN: 2637-0972\
+Website : [https://gaexcellence.com/ijirev](https://gaexcellence.com/ijirev)\
+\
+7) International Journal of Modern Education (IJMOE)\
+eISSN: 2637-0905\
+Website : [https://gaexcellence.com/ijmoe](https://gaexcellence.com/ijmoe)\
+\
+8) Advanced International Journal of Business, Entrepreneurship and SMEs (AIJBES)\
+eISSN: 2682-8545\
+Website : [https://gaexcellence.com/aijbes](https://gaexcellence.com/aijbes)\ 
 
-SINTA\
+---
+
+### SINTA
 
 - IndoMath: Indonesia Mathematics Education (Sinta 3) - 75.00 (USD) [https://indomath.org/index.php/indomath](https://indomath.org/index.php/indomath)\
 - J Statistika PGRI Adi Buana Surabaya (Sinta 4) – Submission fee (no); Approved for Publication (approximately RM 140-RM 150) [https://jurnal.unipasby.ac.id/index.php/jstatistika/](https://jurnal.unipasby.ac.id/index.php/jstatistika/)\
 
-## Semarak Ilmu Journals and Publication Fees\
+---
+
+### Semarak Ilmu Journals and Publication Fees
+
 **IMPORTANT NOTE:** Required to have at least one (1) international author.\
 
 **SCOPUS Journals**\
@@ -97,7 +136,7 @@ SINTA\
 | 4   | **Journal of Advanced Research in Fluid Mechanics and Thermal Sciences** (Q3) | |
 | 5   | **Journal of Advanced Research in Micro and Nano Engineering** | RM2500 (International Corresponding Author) or RM2000 (Malaysian Corresponding Author) |
 | 6   | **Journal of Advanced Research in Numerical Heat Transfer** (Q1) | |
-
+\
 \
 **MYCITE Journals**\
 
