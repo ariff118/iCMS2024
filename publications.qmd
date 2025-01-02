@@ -132,10 +132,10 @@ Website : [https://gaexcellence.com/aijbes](https://gaexcellence.com/aijbes)\
 | No. | Journal Name | Fee | 
 |-----|--------------|-----|
 | 1   | **CFD Letters** (Q3) | RM2000 (International Corresponding Author) or RM1500 (Malaysian Corresponding Author) |
-| 2   | **Journal of Advanced Research in Applied Mechanics** | |
-| 4   | **Journal of Advanced Research in Fluid Mechanics and Thermal Sciences** (Q3) | |
-| 5   | **Journal of Advanced Research in Micro and Nano Engineering** | RM2500 (International Corresponding Author) or RM2000 (Malaysian Corresponding Author) |
-| 6   | **Journal of Advanced Research in Numerical Heat Transfer** (Q1) | |
+| 2   | **Journal of Advanced Research in Applied Mechanics** | RM2000 (International Corresponding Author) or RM1500 (Malaysian Corresponding Author) |
+| 3   | **Journal of Advanced Research in Fluid Mechanics and Thermal Sciences** (Q3) | RM2000 (International Corresponding Author) or RM1500 (Malaysian Corresponding Author) |
+| 4   | **Journal of Advanced Research in Micro and Nano Engineering** | RM2500 (International Corresponding Author) or RM2000 (Malaysian Corresponding Author) |
+| 5   | **Journal of Advanced Research in Numerical Heat Transfer** (Q1) | RM2500 (International Corresponding Author) or RM2000 (Malaysian Corresponding Author) |
 \
 \
 **MYCITE Journals**\
@@ -144,7 +144,7 @@ Website : [https://gaexcellence.com/aijbes](https://gaexcellence.com/aijbes)\
 |-----|--------------|-----|
 | 1   | **International Journal of Advanced Research in Future Ready Learning and Education** | RM250 (Malaysian Corresponding Author) |
 | 2   | **Journal of Advanced Research Design** | RM250 (Malaysian/International Corresponding Author) |
-| 3   | **Journal of Advanced Research in Computing and Applications** | |
+| 3   | **Journal of Advanced Research in Computing and Applications** | RM250 (Malaysian/International Corresponding Author) |
 
 ## General Information\
 
