@@ -24,7 +24,7 @@ title: "Parallel Session"
 6. The audio must be audible and clear\
 7. No background music is allowed in the video\
 8. Name the video as the presenter’s name and the paper ID number (Example: AHMAD_000-000)\
-9. The video should be uploaded to [](https://forms.gle/Q4wkhkChQjhq8jjH8) before 15 January 2025\
+9. The video should be uploaded to [https://forms.gle/Q4wkhkChQjhq8jjH8](https://forms.gle/Q4wkhkChQjhq8jjH8) before 15 January 2025\
 \
 **Note: Participants must use the iCMS2025 slide template provided.**\
 \
