@@ -1,0 +1,20 @@
+---
+title: "Presentation Slide Template"
+---
+
+## Presentation Slide Template
+
+Please download the presentation slide template. Click the PowerPoint icon.\
+\
+**Download Presentation Slide Template**\
+[![](images/ppt.png){width=50px}](files/iCMS2025_Presentation_Slide_Template.pptx){target="_blank"}\
+\
+---
+
+## Backgound Image
+
+Please download the following image to be used for your background image during virtual session on the conference dates. Right click the image and select *Save image as ...*.\
+
+[![](images/Virtual BG ICMS2025.png){width=500px}](images/Virtual BG ICMS2025.png){target="_blank"}\
+\
+[![](images/Virtual BG ICMS2025-2.png){width=500px}](images/Virtual BG ICMS2025-2.png){target="_blank"}\

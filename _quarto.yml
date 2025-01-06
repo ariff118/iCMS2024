@@ -25,7 +25,13 @@ website:
           - text: "<span style='color: black;'>Programme Schedule</span>"
             file: ProgramSchedule.qmd
       - text: "<span style='color: white;'><strong>Parallel Session</span>"
-        file: parallel.qmd
+        menu: 
+          - text: "<span style='color: black;'>Presentation Guidelines</span>"
+            file: guidelines.qmd
+          - text: "<span style='color: black;'>Presentation Slide Template</span>"
+            file: template.qmd
+          - text: "<span style='color: black;'>Presentation Schedule (TBA)</span>"
+            file: schedule.qmd
       - text: "<span style='color: white;'><strong>Registration & Submission</span>"
         file: register.qmd
       - text: "<span style='color: white;'><strong>Fees & Payment</span>"
