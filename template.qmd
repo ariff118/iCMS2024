@@ -4,10 +4,10 @@ title: "Presentation Slide Template"
 
 ## Presentation Slide Template
 
-Please download the presentation slide template. Click the PowerPoint icon.\
+Please download the presentation slide template. Click on the template image below to download the file.\
 \
 **Download Presentation Slide Template**\
-[![](images/ppt.png){width=50px}](files/iCMS2025_Presentation_Slide_Template.pptx){target="_blank"}\
+[![](images/first_page_template.png){width=500px}](files/iCMS2025_Presentation_Slide_Template.pptx){target="_blank"}\
 \
 ---
 
