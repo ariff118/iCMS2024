@@ -218,8 +218,8 @@ Video Montage & Refereshment Break\
 Closing Speech by:\
 PROF. DR. ROSHIMA HAJI SAID\
 Rector, Universiti Teknologi Mara (UiTM) Kedah\
-Announcement of BEST PAPER AWARD\
-Announcement of BEST VIDEO PRESENTATION\
+Announcement of **BEST PAPER AWARD**\
+Announcement of **BEST PRESENTER**\
 :::
 
 ::: {.column width="30%"}
