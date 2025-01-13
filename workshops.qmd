@@ -25,3 +25,8 @@ We look forward to your participation. Register now to secure your spot‼\
 ![](images/workshop.jpeg)
 
 ---
+
+**Location Map - Dewan Sri Jerai, UiTM Kedah**\
+:::{.column-screen}
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d992.5009262701295!2d100.4476318858099!3d5.712599694269335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304b2979ed20c52b%3A0x91cf14f6f3fcdd0d!2sDewan%20Sri%20Jerai!5e0!3m2!1sen!2smy!4v1736742212570!5m2!1sen!2smy" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+:::
