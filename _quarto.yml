@@ -30,7 +30,7 @@ website:
             file: guidelines.qmd
           - text: "<span style='color: black;'>Presentation Slide Template</span>"
             file: template.qmd
-          - text: "<span style='color: black;'>Presentation Schedule (TBA)</span>"
+          - text: "<span style='color: black;'>Presentation Schedule</span>"
             file: schedule.qmd
       - text: "<span style='color: white;'><strong>Registration & Submission</span>"
         file: register.qmd
