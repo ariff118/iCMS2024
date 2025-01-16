@@ -3,10 +3,6 @@ title: "Programme Schedule"
 ---
 ## Programme Schedule\
 
-For more information about programme schedule please click the button below.\
-
-Button\
-
 Please note, this programme schedule is subject to change at any time. If you have any queries about the schedule, please feel free to contact us by email at [icms2025@uitm.edu.my](icms2025@uitm.edu.my)\
 ---
 
@@ -49,7 +45,7 @@ Doa Recitation and National Anthem\
 
 Welcoming Speech by:\
 DR. NORIN RAHAYU SHAMSUDDIN\
-Chair iCMS2025
+Chair, iCMS2025\
 Universiti Teknologi MARA (UiTM) Cawangan Kedah\
 :::
 
@@ -60,7 +56,8 @@ Universiti Teknologi MARA (UiTM) Cawangan Kedah\
 ::: {.column width="70%"}
 Officiating Speech by:\
 PROF. DR. ROSHIMA HAJI SAID\
-Rector, Universiti Teknologi Mara (UiTM) Kedah\
+Rector,\
+Universiti Teknologi Mara (UiTM) Cawangan Kedah\
 :::
 
 ::: {.column width="30%"}
@@ -77,8 +74,8 @@ Video Montage (Opening iCMS2025)\
 
 ::: {.column width="70%"}
 Parallel Session 1\
-Choose room and sessions to attend.\
-[SEE OPTIONS]\
+Choose a room and sessions to attend.\
+<!-- [SEE OPTIONS]\ -->
 :::
 
 ::: {.column width="30%"}
@@ -95,8 +92,8 @@ Video Montage (Math ProofReads)\
 
 ::: {.column width="70%"}
 Parallel Session 2\
-Choose room and sessions to attend.\
-[SEE OPTIONS]\
+Choose a room and sessions to attend.\
+<!-- [SEE OPTIONS]\ -->
 :::
 
 ::: {.column width="30%"}
@@ -123,8 +120,8 @@ AI AS AN ACCELERATOR AND COMMON LANGUAGE FOR SCIENTIST\
 
 ::: {.column width="70%"}
 Parallel Session 3\
-Choose room and sessions to attend.\
-[SEE OPTIONS]\
+Choose a room and sessions to attend.\
+<!-- [SEE OPTIONS]\ -->
 :::
 
 ::: {.column width="30%"}
@@ -160,8 +157,8 @@ Familiarise yourself with the conference platform and check that your equipment 
 
 ::: {.column width="70%"}
 Parallel Session 4\
-Choose room and sessions to attend.\
-[SEE OPTIONS]\
+Choose a room and sessions to attend.\
+<!-- [SEE OPTIONS]\ -->
 :::
 
 ::: {.column width="30%"}
@@ -180,8 +177,8 @@ HEALTHCARE RESEARCH: THE ROLE OF ARTIFICIAL INTELLIGENCE IN MODERN MEDICINE\
 
 ::: {.column width="70%"}
 Parallel Session 5\
-Choose room and sessions to attend.\
-[SEE OPTIONS]\
+Choose a room and sessions to attend.\
+<!-- [SEE OPTIONS]\ -->
 :::
 
 ::: {.column width="30%"}
@@ -198,8 +195,8 @@ Refreshment Break\
 
 ::: {.column width="70%"}
 Parallel Session 6\
-Choose room and sessions to attend.\
-[SEE OPTIONS]\
+Choose a room and sessions to attend.\
+<!-- [SEE OPTIONS]\ -->
 :::
 
 ::: {.column width="30%"}
@@ -207,7 +204,7 @@ Choose room and sessions to attend.\
 :::
 
 ::: {.column width="70%"}
-Video Montage & Refereshment Break\
+Video Montage & Refreshment Break\
 :::
 
 ::: {.column width="30%"}
@@ -217,7 +214,7 @@ Video Montage & Refereshment Break\
 ::: {.column width="70%"}
 Closing Speech by:\
 PROF. DR. ROSHIMA HAJI SAID\
-Rector, Universiti Teknologi Mara (UiTM) Kedah\
+Rector, Universiti Teknologi Mara (UiTM) Cawangan Kedah\
 Announcement of **BEST PAPER AWARD**\
 Announcement of **BEST PRESENTER**\
 :::
@@ -256,7 +253,7 @@ SLOT 2: Research Article vs Review Article\
 :::
 
 ::: {.column width="30%"}
-10:40 AM - 10:40AM\
+10:40 AM - 11:00AM\
 :::
 
 ::: {.column width="70%"}
@@ -268,8 +265,8 @@ Break\
 :::
 
 ::: {.column width="70%"}
-SLOT 3: Jenis-Jenis Review Article\
-SLOT 4: Struktur SLR Artikel\
+SLOT 3: Types of Review Articles\
+SLOT 4: Structure of SLR Articles\
 :::
 
 ::: {.column width="30%"}
@@ -285,9 +282,9 @@ Lunch Break & Solat
 :::
 
 ::: {.column width="70%"}
-SLOT 5: Searching Teknik (Scopus & Web of Science & Google Scholar) - Search String\
+SLOT 5: Searching Techniques (Scopus & Web of Science & Google Scholar) - Search String\
 SLOT 6: Searching Theme & Keyword\
-SLOT 7: Draft template SLR\
+SLOT 7: Draft SLR Template\
 :::
 
 :::
@@ -305,8 +302,8 @@ SLOT 7: Draft template SLR\
 ::: {.column width="70%"}
 **Activities**\
 \
-SLOT 8: Extract Data dari Database\
-SLOT 9: Tentukan Inclusion dan Exclusion\
+SLOT 8: Extract Data from Database\
+SLOT 9: Determine Inclusion dan Exclusion\
 :::
 
 ::: {.column width="30%"}
@@ -322,7 +319,7 @@ Break\
 :::
 
 ::: {.column width="70%"}
-SLOT 10: Indentification, Screening & Duplicate Process\
+SLOT 10: Identification, Screening & Duplicate Process\
 SLOT 11: Develop PRISMA framework\
 :::
 
@@ -339,8 +336,8 @@ Lunch Break & Solat\
 :::
 
 ::: {.column width="70%"}
-SLOT 12: Teknik penulisan SLR\
-SLOT 13: Tip & Trick Publish Artikel\
+SLOT 12: SLR Writing Techniques\
+SLOT 13: Tips & Tricks to Publish Articles\
 :::
 
 :::
