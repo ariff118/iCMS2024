@@ -69,7 +69,7 @@ Video Montage (Opening iCMS2025)\
 :::
 
 ::: {.column width="30%"}
-09:20 - 11:00\
+09:40 - 11:00\
 :::
 
 ::: {.column width="70%"}
@@ -87,7 +87,7 @@ Video Montage (Math ProofReads)\
 :::
 
 ::: {.column width="30%"}
-11:05 - 12:45\
+11:30 - 13:00\
 :::
 
 ::: {.column width="70%"}
@@ -97,7 +97,7 @@ Choose a room and sessions to attend.\
 :::
 
 ::: {.column width="30%"}
-12:45 - 14:30\
+13:00 - 14:30\
 :::
 
 ::: {.column width="70%"}
@@ -115,7 +115,7 @@ AI AS AN ACCELERATOR AND COMMON LANGUAGE FOR SCIENTIST\
 :::
 
 ::: {.column width="30%"}
-15:30 - 16:50\
+15:30 - 17:00\
 :::
 
 ::: {.column width="70%"}
@@ -125,7 +125,7 @@ Choose a room and sessions to attend.\
 :::
 
 ::: {.column width="30%"}
-16:50\
+17:00\
 :::
 
 ::: {.column width="70%"}
@@ -152,7 +152,7 @@ Familiarise yourself with the conference platform and check that your equipment 
 :::
 
 ::: {.column width="30%"}
-08:40 -10:15\
+08:45 -10:00\
 :::
 
 ::: {.column width="70%"}
@@ -172,7 +172,7 @@ HEALTHCARE RESEARCH: THE ROLE OF ARTIFICIAL INTELLIGENCE IN MODERN MEDICINE\
 :::
 
 ::: {.column width="30%"}
-11:00 - 13:00\
+11:15 - 13:00\
 :::
 
 ::: {.column width="70%"}
