@@ -105,7 +105,7 @@ Refreshment Break\
 :::
 
 ::: {.column width="30%"}
-14:30 - 15:30\
+14:30 - 15:20\
 :::
 
 ::: {.column width="70%"}
@@ -194,21 +194,11 @@ Refreshment Break\
 :::
 
 ::: {.column width="70%"}
-Parallel Session 6\
-Choose a room and sessions to attend.\
-<!-- [SEE OPTIONS]\ -->
-:::
-
-::: {.column width="30%"}
-15:10 - 15:25\
-:::
-
-::: {.column width="70%"}
 Video Montage & Refreshment Break\
 :::
 
 ::: {.column width="30%"}
-15:25 - 16:00\
+15:10 - 15:25\
 :::
 
 ::: {.column width="70%"}
@@ -220,7 +210,7 @@ Announcement of **BEST PRESENTER**\
 :::
 
 ::: {.column width="30%"}
-16:00\
+15:30\
 :::
 
 ::: {.column width="70%"}
