@@ -18,7 +18,7 @@ Please note, this programme schedule is subject to change at any time. If you ha
 ::: {.column width="30%"}
 **Time**\
 \
-08:00 - 08:40\
+08:00 - 08:45\
 :::
 
 ::: {.column width="70%"}
@@ -29,13 +29,13 @@ Familiarise yourself with the conference platform and check that\
 your equipment is working by accessing the ‘registration’ session.\
 :::
 
-::: {.column width="30%"}
-08:40 - 08:45\
-:::
+<!-- ::: {.column width="30%"} -->
+<!-- 08:40 - 08:45\ -->
+<!-- ::: -->
 
-::: {.column width="70%"}
-Doa Recitation and National Anthem\
-:::
+<!-- ::: {.column width="70%"} -->
+<!-- Doa Recitation and National Anthem\ -->
+<!-- ::: -->
 
 ::: {.column width="30%"}
 08:45 - 09:00\
@@ -56,7 +56,7 @@ Universiti Teknologi MARA (UiTM) Cawangan Kedah\
 ::: {.column width="70%"}
 Officiating Speech by:\
 PROF. DR. ROSHIMA HAJI SAID\
-Rector,\
+Acting Rector,\
 Universiti Teknologi Mara (UiTM) Cawangan Kedah\
 :::
 
@@ -203,8 +203,9 @@ Video Montage & Refreshment Break\
 
 ::: {.column width="70%"}
 Closing Speech by:\
-PROF. DR. ROSHIMA HAJI SAID\
-Rector, Universiti Teknologi Mara (UiTM) Cawangan Kedah\
+ASSOC. PROF. DR. MOHD RIZAIMY SHAHARUDIN\
+Deputy Rector (Research, Industrial Linkages, Community and Alumni),\
+Universiti Teknologi Mara (UiTM) Cawangan Kedah\
 Announcement of **BEST PAPER AWARD**\
 Announcement of **BEST PRESENTER**\
 :::
