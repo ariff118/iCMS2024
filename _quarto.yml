@@ -24,6 +24,8 @@ website:
             file: workshops.qmd
           - text: "<span style='color: black;'>Programme Schedule</span>"
             file: ProgramSchedule.qmd
+          - text: "<span style='color: black;'>Programme Book</span>"
+            file: pbook.qmd
       - text: "<span style='color: white;'><strong>Parallel Session</span>"
         menu: 
           - text: "<span style='color: black;'>Presentation Guidelines</span>"
